@@ -1,0 +1,20 @@
+state_num=47
+sym_num=7905
+init_line_num=1
+trans_line_num=886
+emiss_line_num=8737
+
+\init
+BOS	1.0	0.0
+
+\transition
+BOS	A	0.5
+BOS B	0.4
+A 	B	1.0
+
+\emission
+BOS	sara	0.5
+BOS	is	0.3
+BOS	cool	0.9
+A	indeed	1.0
+B	cool	0.5

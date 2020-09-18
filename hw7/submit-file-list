@@ -1,0 +1,12 @@
+proc_file.sh
+
+create_vectors.sh
+
+train.vectors
+train.vectors.txt
+test.vectors
+test.vectors.txt
+me-model
+me.stdout
+me.stderr
+

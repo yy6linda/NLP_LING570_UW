@@ -1,0 +1,1529 @@
+Sent #1: <s> Influential members of the House Ways and Means Committee introduced legislation that would restrict how the new savings-and-loan bailout agency can raise capital , creating another potential obstacle to the government 's sale of sick thrifts . </s>
+1: lg P(influential | <s>) = -5.1063780334 (unseen ngrams)
+2: lg P(members | <s> influential) = -4.2612798348 (unseen ngrams)
+3: lg P(of | influential members) = -0.4587337114 (unseen ngrams)
+4: lg P(the | members of) = -0.7514830995
+5: lg P(house | of the) = -2.8641223187 (unseen ngrams)
+6: lg P(ways | the house) = -inf (unknown word)
+7: lg P(and | house ways) = -2.4978518741 (unseen ngrams)
+8: lg P(means | ways and) = -5.1063780334 (unseen ngrams)
+9: lg P(committee | and means) = -4.2612798348 (unseen ngrams)
+10: lg P(introduced | means committee) = -4.6292567787 (unseen ngrams)
+11: lg P(legislation | committee introduced) = -4.328226598 (unseen ngrams)
+12: lg P(that | introduced legislation) = -0.8697902654 (unseen ngrams)
+13: lg P(would | legislation that) = -1.8048137238
+14: lg P(restrict | that would) = -inf (unknown word)
+15: lg P(how | would restrict) = -4.4074078071 (unseen ngrams)
+16: lg P(the | restrict how) = -2.0203742003 (unseen ngrams)
+17: lg P(new | how the) = -1.9005877785 (unseen ngrams)
+18: lg P(savings-and-loan | the new) = -inf (unknown word)
+19: lg P(bailout | new savings-and-loan) = -inf (unknown word)
+20: lg P(agency | savings-and-loan bailout) = -4.504318042 (unseen ngrams)
+21: lg P(can | bailout agency) = -3.8276243156 (unseen ngrams)
+22: lg P(raise | agency can) = -4.504318042 (unseen ngrams)
+23: lg P(capital | can raise) = -4.328226598 (unseen ngrams)
+24: lg P(, | raise capital) = -2.0419199169 (unseen ngrams)
+25: lg P(creating | capital ,) = -5.1063780334 (unseen ngrams)
+26: lg P(another | , creating) = -3.8053479267 (unseen ngrams)
+27: lg P(potential | creating another) = -4.504318042 (unseen ngrams)
+28: lg P(obstacle | another potential) = -inf (unknown word)
+29: lg P(to | potential obstacle) = -2.3912105494 (unseen ngrams)
+30: lg P(the | obstacle to) = -1.111458631 (unseen ngrams)
+31: lg P(government | to the) = -2.1289893248
+32: lg P('s | the government) = -0.9190734466
+33: lg P(sale | government 's) = -4.4074078071 (unseen ngrams)
+34: lg P(of | 's sale) = -0.1905128917 (unseen ngrams)
+35: lg P(sick | sale of) = -inf (unknown word)
+36: lg P(thrifts | of sick) = -inf (unknown word)
+37: lg P(. | sick thrifts) = -2.1125009913 (unseen ngrams)
+38: lg P(</s> | thrifts .) = -0.1210694571 (unseen ngrams)
+1 sentence, 37 words, 7 OOVs
+lgprob=-91.2726379075 ppl=879.5866762877
+
+
+
+Sent #2: <s> The bill , whose backers include Chairman Dan Rostenkowski -LRB- D. , Ill. -RRB- , would prevent the Resolution Trust Corp. from raising temporary working capital by having an RTC-owned bank or thrift issue debt that would n't be counted on the federal budget . </s>
+1: lg P(the | <s>) = -0.8206156946
+2: lg P(bill | <s> the) = -4.4074078071 (unseen ngrams)
+3: lg P(, | the bill) = -2.0419199169 (unseen ngrams)
+4: lg P(whose | bill ,) = -2.8505898891 (unseen ngrams)
+5: lg P(backers | , whose) = -inf (unknown word)
+6: lg P(include | whose backers) = -4.328226598 (unseen ngrams)
+7: lg P(chairman | backers include) = -3.9302866264 (unseen ngrams)
+8: lg P(dan | include chairman) = -5.1063780334 (unseen ngrams)
+9: lg P(rostenkowski | chairman dan) = -inf (unknown word)
+10: lg P(-lrb- | dan rostenkowski) = -4.0271966949 (unseen ngrams)
+11: lg P(d. | rostenkowski -lrb-) = -4.8053480377 (unseen ngrams)
+12: lg P(, | -lrb- d.) = -2.0419199169 (unseen ngrams)
+13: lg P(ill. | d. ,) = -3.1564665724 (unseen ngrams)
+14: lg P(-rrb- | , ill.) = -4.0271966949 (unseen ngrams)
+15: lg P(, | ill. -rrb-) = -0.5594899187 (unseen ngrams)
+16: lg P(would | -rrb- ,) = -2.7775626176 (unseen ngrams)
+17: lg P(prevent | , would) = -4.8053480377 (unseen ngrams)
+18: lg P(the | would prevent) = -0.0917607751 (unseen ngrams)
+19: lg P(resolution | prevent the) = -5.1063780334 (unseen ngrams)
+20: lg P(trust | the resolution) = -5.1063780334 (unseen ngrams)
+21: lg P(corp. | resolution trust) = -3.8759289814 (unseen ngrams)
+22: lg P(from | trust corp.) = -3.2430550516 (unseen ngrams)
+23: lg P(raising | corp. from) = -4.504318042 (unseen ngrams)
+24: lg P(temporary | from raising) = -inf (unknown word)
+25: lg P(working | raising temporary) = -4.6292567787 (unseen ngrams)
+26: lg P(capital | temporary working) = -4.328226598 (unseen ngrams)
+27: lg P(by | working capital) = -3.006007365 (unseen ngrams)
+28: lg P(having | capital by) = -4.8053480377 (unseen ngrams)
+29: lg P(an | by having) = -3.1063779113 (unseen ngrams)
+30: lg P(rtc-owned | having an) = -inf (unknown word)
+31: lg P(bank | an rtc-owned) = -3.8053479267 (unseen ngrams)
+32: lg P(or | rtc-owned bank) = -3.3988077267 (unseen ngrams)
+33: lg P(thrift | bank or) = -4.6292567787 (unseen ngrams)
+34: lg P(issue | or thrift) = -0.5738273497 (unseen ngrams)
+35: lg P(debt | thrift issue) = -3.9924345957 (unseen ngrams)
+36: lg P(that | issue debt) = -2.7883145704 (unseen ngrams)
+37: lg P(would | debt that) = -1.8048137238 (unseen ngrams)
+38: lg P(n't | that would) = -0.8183324154
+39: lg P(be | would n't) = -1.2680578437
+40: lg P(counted | n't be) = -inf (unknown word)
+41: lg P(on | be counted) = -2.9760441416 (unseen ngrams)
+42: lg P(the | counted on) = -0.5405167129 (unseen ngrams)
+43: lg P(federal | on the) = -2.550836113 (unseen ngrams)
+44: lg P(budget | the federal) = -4.8053480377 (unseen ngrams)
+45: lg P(. | federal budget) = -2.1125009913 (unseen ngrams)
+46: lg P(</s> | budget .) = -0.1210694571 (unseen ngrams)
+1 sentence, 45 words, 5 OOVs
+lgprob=-127.6744970483 ppl=1300.2058721713
+
+
+
+Sent #3: <s> The bill intends to restrict the RTC to Treasury borrowings only , unless the agency receives specific congressional authorization . </s>
+1: lg P(the | <s>) = -0.8206156946
+2: lg P(bill | <s> the) = -4.4074078071 (unseen ngrams)
+3: lg P(intends | the bill) = -inf (unknown word)
+4: lg P(to | bill intends) = -2.3912105494 (unseen ngrams)
+5: lg P(restrict | intends to) = -inf (unknown word)
+6: lg P(the | to restrict) = -2.0203742003 (unseen ngrams)
+7: lg P(rtc | restrict the) = -inf (unknown word)
+8: lg P(to | the rtc) = -2.3912105494 (unseen ngrams)
+9: lg P(treasury | rtc to) = -4.4074078071 (unseen ngrams)
+10: lg P(borrowings | to treasury) = -inf (unknown word)
+11: lg P(only | treasury borrowings) = -3.8276243156 (unseen ngrams)
+12: lg P(, | borrowings only) = -2.0419199169 (unseen ngrams)
+13: lg P(unless | only ,) = -3.1516198601 (unseen ngrams)
+14: lg P(the | , unless) = -2.0203742003 (unseen ngrams)
+15: lg P(agency | unless the) = -4.504318042 (unseen ngrams)
+16: lg P(receives | the agency) = -5.1063780334 (unseen ngrams)
+17: lg P(specific | agency receives) = -5.1063780334 (unseen ngrams)
+18: lg P(congressional | receives specific) = -inf (unknown word)
+19: lg P(authorization | specific congressional) = -inf (unknown word)
+20: lg P(. | congressional authorization) = -2.1125009913 (unseen ngrams)
+21: lg P(</s> | authorization .) = -0.1210694571 (unseen ngrams)
+1 sentence, 20 words, 6 OOVs
+lgprob=-44.430409458 ppl=916.2780801698
+
+
+
+Sent #4: <s> `` Such agency ` self-help ' borrowing is unauthorized and expensive , far more expensive than direct Treasury borrowing , '' said Rep. Fortney Stark -LRB- D. , Calif. -RRB- , the bill 's chief sponsor . </s>
+1: lg P(`` | <s>) = -1.1579972204
+2: lg P(such | <s> ``) = -2.3595005576
+3: lg P(agency | `` such) = -4.504318042 (unseen ngrams)
+4: lg P(` | such agency) = -4.8053480377 (unseen ngrams)
+5: lg P(self-help | agency `) = -inf (unknown word)
+6: lg P(' | ` self-help) = -3.7446500526 (unseen ngrams)
+7: lg P(borrowing | self-help ') = -5.1063780334 (unseen ngrams)
+8: lg P(is | ' borrowing) = -2.9274009612 (unseen ngrams)
+9: lg P(unauthorized | borrowing is) = -5.1063780334 (unseen ngrams)
+10: lg P(and | is unauthorized) = -2.4978518741 (unseen ngrams)
+11: lg P(expensive | unauthorized and) = -5.1063780334 (unseen ngrams)
+12: lg P(, | and expensive) = -2.0419199169 (unseen ngrams)
+13: lg P(far | expensive ,) = -3.9924345957 (unseen ngrams)
+14: lg P(more | , far) = -0.9084996107 (unseen ngrams)
+15: lg P(expensive | far more) = -5.1063780334 (unseen ngrams)
+16: lg P(than | more expensive) = -3.4436200811 (unseen ngrams)
+17: lg P(direct | expensive than) = -4.6292567787 (unseen ngrams)
+18: lg P(treasury | than direct) = -4.4074078071 (unseen ngrams)
+19: lg P(borrowing | direct treasury) = -5.1063780334 (unseen ngrams)
+20: lg P(, | treasury borrowing) = -2.0419199169 (unseen ngrams)
+21: lg P('' | borrowing ,) = -1.3031610328 (unseen ngrams)
+22: lg P(said | , '') = -1.4049086078
+23: lg P(rep. | '' said) = -4.8053480377 (unseen ngrams)
+24: lg P(fortney | said rep.) = -inf (unknown word)
+25: lg P(stark | rep. fortney) = -inf (unknown word)
+26: lg P(-lrb- | fortney stark) = -4.0271966949 (unseen ngrams)
+27: lg P(d. | stark -lrb-) = -4.8053480377 (unseen ngrams)
+28: lg P(, | -lrb- d.) = -2.0419199169 (unseen ngrams)
+29: lg P(calif. | d. ,) = -inf (unknown word)
+30: lg P(-rrb- | , calif.) = -4.0271966949 (unseen ngrams)
+31: lg P(, | calif. -rrb-) = -0.5594899187 (unseen ngrams)
+32: lg P(the | -rrb- ,) = -1.0827826322
+33: lg P(bill | , the) = -4.4074078071 (unseen ngrams)
+34: lg P('s | the bill) = -2.7067041837 (unseen ngrams)
+35: lg P(chief | bill 's) = -2.1881511827 (unseen ngrams)
+36: lg P(sponsor | 's chief) = -5.1063780334 (unseen ngrams)
+37: lg P(. | chief sponsor) = -2.1125009913 (unseen ngrams)
+38: lg P(</s> | sponsor .) = -0.1210694571 (unseen ngrams)
+1 sentence, 37 words, 4 OOVs
+lgprob=-109.6935788486 ppl=1683.7659814047
+
+
+
+Sent #5: <s> The complex financing plan in the S&L bailout law includes raising $ 30 billion from debt issued by the newly created RTC . </s>
+1: lg P(the | <s>) = -0.8206156946
+2: lg P(complex | <s> the) = -inf (unknown word)
+3: lg P(financing | the complex) = -4.504318042 (unseen ngrams)
+4: lg P(plan | complex financing) = -3.9924345957 (unseen ngrams)
+5: lg P(in | financing plan) = -1.1856366642 (unseen ngrams)
+6: lg P(the | plan in) = -0.7977053468 (unseen ngrams)
+7: lg P(s&l | in the) = -5.1063780334 (unseen ngrams)
+8: lg P(bailout | the s&l) = -inf (unknown word)
+9: lg P(law | s&l bailout) = -3.8759289814 (unseen ngrams)
+10: lg P(includes | bailout law) = -4.4074078071 (unseen ngrams)
+11: lg P(raising | law includes) = -4.504318042 (unseen ngrams)
+12: lg P($ | includes raising) = -3.0271966579 (unseen ngrams)
+13: lg P(30 | raising $) = -2.1720309812 (unseen ngrams)
+14: lg P(billion | $ 30) = -3.5381761893 (unseen ngrams)
+15: lg P(from | 30 billion) = -1.6537834428 (unseen ngrams)
+16: lg P(debt | billion from) = -3.9924345957 (unseen ngrams)
+17: lg P(issued | from debt) = -4.4074078071 (unseen ngrams)
+18: lg P(by | debt issued) = -3.006007365 (unseen ngrams)
+19: lg P(the | issued by) = -0.7739885057 (unseen ngrams)
+20: lg P(newly | by the) = -3.1777645056 (unseen ngrams)
+21: lg P(created | the newly) = -5.1063780334 (unseen ngrams)
+22: lg P(rtc | newly created) = -inf (unknown word)
+23: lg P(. | created rtc) = -2.1125009913 (unseen ngrams)
+24: lg P(</s> | rtc .) = -0.1210694571 (unseen ngrams)
+1 sentence, 23 words, 3 OOVs
+lgprob=-62.2834817393 ppl=924.4428819858
+
+
+
+Sent #6: <s> This financing system was created in the new law in order to keep the bailout spending from swelling the budget deficit . </s>
+1: lg P(this | <s>) = -2.2821062472
+2: lg P(financing | <s> this) = -4.504318042 (unseen ngrams)
+3: lg P(system | this financing) = -4.328226598 (unseen ngrams)
+4: lg P(was | financing system) = -3.0025741814 (unseen ngrams)
+5: lg P(created | system was) = -5.1063780334 (unseen ngrams)
+6: lg P(in | was created) = -2.4342800479 (unseen ngrams)
+7: lg P(the | created in) = -0.7977053468 (unseen ngrams)
+8: lg P(new | in the) = -1.9005877785
+9: lg P(law | the new) = -2.076730592 (unseen ngrams)
+10: lg P(in | new law) = -2.4342800479 (unseen ngrams)
+11: lg P(order | law in) = -4.328226598 (unseen ngrams)
+12: lg P(to | in order) = -2.3912105494 (unseen ngrams)
+13: lg P(keep | order to) = -2.3327563173 (unseen ngrams)
+14: lg P(the | to keep) = -0.5587631689
+15: lg P(bailout | keep the) = -inf (unknown word)
+16: lg P(spending | the bailout) = -3.902257912 (unseen ngrams)
+17: lg P(from | bailout spending) = -3.2430550516 (unseen ngrams)
+18: lg P(swelling | spending from) = -5.1063780334 (unseen ngrams)
+19: lg P(the | from swelling) = -2.0203742003 (unseen ngrams)
+20: lg P(budget | swelling the) = -4.8053480377 (unseen ngrams)
+21: lg P(deficit | the budget) = -4.8053480377 (unseen ngrams)
+22: lg P(. | budget deficit) = -2.1125009913 (unseen ngrams)
+23: lg P(</s> | deficit .) = -0.1210694571 (unseen ngrams)
+1 sentence, 22 words, 1 OOVs
+lgprob=-64.5944752698 ppl=863.2021477717
+
+
+
+Sent #7: <s> Another $ 20 billion would be raised through Treasury bonds , which pay lower interest rates . </s>
+1: lg P(another | <s>) = -2.5923457702
+2: lg P($ | <s> another) = -1.3878596099 (unseen ngrams)
+3: lg P(20 | another $) = -4.504318042 (unseen ngrams)
+4: lg P(billion | $ 20) = -3.5381761893 (unseen ngrams)
+5: lg P(would | 20 billion) = -3.5381761893 (unseen ngrams)
+6: lg P(be | billion would) = -0.7604915176 (unseen ngrams)
+7: lg P(raised | would be) = -1.9880114193 (unseen ngrams)
+8: lg P(through | be raised) = -4.2612798348 (unseen ngrams)
+9: lg P(treasury | raised through) = -4.4074078071 (unseen ngrams)
+10: lg P(bonds | through treasury) = -4.6292567787 (unseen ngrams)
+11: lg P(, | treasury bonds) = -2.0419199169 (unseen ngrams)
+12: lg P(which | bonds ,) = -1.692056489 (unseen ngrams)
+13: lg P(pay | , which) = -4.0649852473 (unseen ngrams)
+14: lg P(lower | which pay) = -4.504318042 (unseen ngrams)
+15: lg P(interest | pay lower) = -3.9302866264 (unseen ngrams)
+16: lg P(rates | lower interest) = -0.4276938532 (unseen ngrams)
+17: lg P(. | interest rates) = -0.6647155514
+18: lg P(</s> | rates .) = -0.1210694571
+1 sentence, 17 words, 0 OOVs
+lgprob=-49.0543683415 ppl=531.1811876625
+
+
+
+Sent #8: <s> But the RTC also requires `` working '' capital to maintain the bad assets of thrifts that are sold , until the assets can be sold separately . </s>
+1: lg P(but | <s>) = -1.4866419614
+2: lg P(the | <s> but) = -0.9123526746
+3: lg P(rtc | but the) = -inf (unknown word)
+4: lg P(also | the rtc) = -3.4831286109 (unseen ngrams)
+5: lg P(requires | rtc also) = -4.6292567787 (unseen ngrams)
+6: lg P(`` | also requires) = -2.8230766775 (unseen ngrams)
+7: lg P(working | requires ``) = -4.6292567787 (unseen ngrams)
+8: lg P('' | `` working) = -2.8299161 (unseen ngrams)
+9: lg P(capital | working '') = -4.328226598 (unseen ngrams)
+10: lg P(to | '' capital) = -2.3912105494 (unseen ngrams)
+11: lg P(maintain | capital to) = -inf (unknown word)
+12: lg P(the | to maintain) = -2.0203742003 (unseen ngrams)
+13: lg P(bad | maintain the) = -4.8053480377 (unseen ngrams)
+14: lg P(assets | the bad) = -4.504318042 (unseen ngrams)
+15: lg P(of | bad assets) = -0.3926606148 (unseen ngrams)
+16: lg P(thrifts | assets of) = -inf (unknown word)
+17: lg P(that | of thrifts) = -2.7883145704 (unseen ngrams)
+18: lg P(are | thrifts that) = -1.6224780438 (unseen ngrams)
+19: lg P(sold | that are) = -4.1521354006 (unseen ngrams)
+20: lg P(, | are sold) = -1.0089123519 (unseen ngrams)
+21: lg P(until | sold ,) = -3.9924345957 (unseen ngrams)
+22: lg P(the | , until) = -2.0203742003 (unseen ngrams)
+23: lg P(assets | until the) = -4.504318042 (unseen ngrams)
+24: lg P(can | the assets) = -3.8276243156 (unseen ngrams)
+25: lg P(be | assets can) = -1.0714962536 (unseen ngrams)
+26: lg P(sold | can be) = -1.9860318124 (unseen ngrams)
+27: lg P(separately | be sold) = -5.1063780334 (unseen ngrams)
+28: lg P(. | sold separately) = -2.1125009913 (unseen ngrams)
+29: lg P(</s> | separately .) = -0.1210694571 (unseen ngrams)
+1 sentence, 28 words, 3 OOVs
+lgprob=-73.5498356921 ppl=674.2793109141
+
+
+
+Sent #9: <s> That debt would be paid off as the assets are sold , leaving the total spending for the bailout at $ 50 billion , or $ 166 billion including interest over 10 years . </s>
+1: lg P(that | <s>) = -2.0953863436
+2: lg P(debt | <s> that) = -3.9924345957 (unseen ngrams)
+3: lg P(would | that debt) = -3.5381761893 (unseen ngrams)
+4: lg P(be | debt would) = -0.7604915176 (unseen ngrams)
+5: lg P(paid | would be) = -1.9863611207 (unseen ngrams)
+6: lg P(off | be paid) = -4.0271966949 (unseen ngrams)
+7: lg P(as | paid off) = -3.1286542996 (unseen ngrams)
+8: lg P(the | off as) = -0.8407982521 (unseen ngrams)
+9: lg P(assets | as the) = -4.504318042 (unseen ngrams)
+10: lg P(are | the assets) = -3.1107427155 (unseen ngrams)
+11: lg P(sold | assets are) = -4.1521354006 (unseen ngrams)
+12: lg P(, | are sold) = -1.0089123519 (unseen ngrams)
+13: lg P(leaving | sold ,) = -inf (unknown word)
+14: lg P(the | , leaving) = -2.0203742003 (unseen ngrams)
+15: lg P(total | leaving the) = -2.5693526241 (unseen ngrams)
+16: lg P(spending | the total) = -3.902257912 (unseen ngrams)
+17: lg P(for | total spending) = -2.7316295609 (unseen ngrams)
+18: lg P(the | spending for) = -0.8502044576 (unseen ngrams)
+19: lg P(bailout | for the) = -inf (unknown word)
+20: lg P(at | the bailout) = -3.1286542996 (unseen ngrams)
+21: lg P($ | bailout at) = -1.2226698622 (unseen ngrams)
+22: lg P(50 | at $) = -2.1720309812 (unseen ngrams)
+23: lg P(billion | $ 50) = -3.5381761893 (unseen ngrams)
+24: lg P(, | 50 billion) = -0.8575804684 (unseen ngrams)
+25: lg P(or | billion ,) = -2.1369298562 (unseen ngrams)
+26: lg P($ | , or) = -1.3187757602
+27: lg P(166 | or $) = -inf (unknown word)
+28: lg P(billion | $ 166) = -3.5381761893 (unseen ngrams)
+29: lg P(including | 166 billion) = -4.1521354006 (unseen ngrams)
+30: lg P(interest | billion including) = -3.9302866264 (unseen ngrams)
+31: lg P(over | including interest) = -3.9302866264 (unseen ngrams)
+32: lg P(10 | interest over) = -1.2725553254 (unseen ngrams)
+33: lg P(years | over 10) = -0.6403687119 (unseen ngrams)
+34: lg P(. | 10 years) = -0.8407238473 (unseen ngrams)
+35: lg P(</s> | years .) = -0.1210694571
+1 sentence, 34 words, 3 OOVs
+lgprob=-78.0198458799 ppl=274.2332961793
+
+
+
+Sent #10: <s> `` It 's a problem that clearly has to be resolved , '' said David Cooke , executive director of the RTC . </s>
+1: lg P(`` | <s>) = -1.1579972204
+2: lg P(it | <s> ``) = -1.4646559812
+3: lg P('s | `` it) = -0.8618597772
+4: lg P(a | it 's) = -1.869195791
+5: lg P(problem | 's a) = -4.6292567787 (unseen ngrams)
+6: lg P(that | a problem) = -2.7883145704 (unseen ngrams)
+7: lg P(clearly | problem that) = -4.6292567787 (unseen ngrams)
+8: lg P(has | that clearly) = -3.1332500499 (unseen ngrams)
+9: lg P(to | clearly has) = -1.419017846 (unseen ngrams)
+10: lg P(be | has to) = -1.4619051636
+11: lg P(resolved | to be) = -5.1063780334 (unseen ngrams)
+12: lg P(, | be resolved) = -2.0419199169 (unseen ngrams)
+13: lg P('' | resolved ,) = -1.3031610328 (unseen ngrams)
+14: lg P(said | , '') = -1.4049086078
+15: lg P(david | '' said) = -4.2612798348 (unseen ngrams)
+16: lg P(cooke | said david) = -inf (unknown word)
+17: lg P(, | david cooke) = -2.0419199169 (unseen ngrams)
+18: lg P(executive | cooke ,) = -3.9924345957 (unseen ngrams)
+19: lg P(director | , executive) = -3.9924345957 (unseen ngrams)
+20: lg P(of | executive director) = -0.2527915344 (unseen ngrams)
+21: lg P(the | director of) = -0.7514830995
+22: lg P(rtc | of the) = -inf (unknown word)
+23: lg P(. | the rtc) = -2.1125009913 (unseen ngrams)
+24: lg P(</s> | rtc .) = -0.1210694571 (unseen ngrams)
+1 sentence, 23 words, 2 OOVs
+lgprob=-50.7969915734 ppl=203.6827089625
+
+
+
+Sent #11: <s> The agency has already spent roughly $ 19 billion selling 34 insolvent S&Ls , and it is likely to sell or merge 600 by the time the bailout concludes . </s>
+1: lg P(the | <s>) = -0.8206156946
+2: lg P(agency | <s> the) = -4.504318042 (unseen ngrams)
+3: lg P(has | the agency) = -3.1332500499 (unseen ngrams)
+4: lg P(already | agency has) = -2.0684430645 (unseen ngrams)
+5: lg P(spent | has already) = -4.6292567787 (unseen ngrams)
+6: lg P(roughly | already spent) = -5.1063780334 (unseen ngrams)
+7: lg P($ | spent roughly) = -3.0271966579 (unseen ngrams)
+8: lg P(19 | roughly $) = -2.1740563766 (unseen ngrams)
+9: lg P(billion | $ 19) = -3.5381761893 (unseen ngrams)
+10: lg P(selling | 19 billion) = -5.1063780334 (unseen ngrams)
+11: lg P(34 | billion selling) = -inf (unknown word)
+12: lg P(insolvent | selling 34) = -inf (unknown word)
+13: lg P(s&ls | 34 insolvent) = -inf (unknown word)
+14: lg P(, | insolvent s&ls) = -2.0419199169 (unseen ngrams)
+15: lg P(and | s&ls ,) = -1.5023266045 (unseen ngrams)
+16: lg P(it | , and) = -2.5314974208
+17: lg P(is | and it) = -1.1045702455 (unseen ngrams)
+18: lg P(likely | it is) = -4.8053480377 (unseen ngrams)
+19: lg P(to | is likely) = -0.0947102119 (unseen ngrams)
+20: lg P(sell | likely to) = -2.8098775645 (unseen ngrams)
+21: lg P(or | to sell) = -3.3988077267 (unseen ngrams)
+22: lg P(merge | sell or) = -5.1063780334 (unseen ngrams)
+23: lg P(600 | or merge) = -inf (unknown word)
+24: lg P(by | merge 600) = -3.006007365 (unseen ngrams)
+25: lg P(the | 600 by) = -0.7739885057 (unseen ngrams)
+26: lg P(time | by the) = -3.0817178559 (unseen ngrams)
+27: lg P(the | the time) = -2.0203742003 (unseen ngrams)
+28: lg P(bailout | time the) = -inf (unknown word)
+29: lg P(concludes | the bailout) = -inf (unknown word)
+30: lg P(. | bailout concludes) = -2.1125009913 (unseen ngrams)
+31: lg P(</s> | concludes .) = -0.1210694571 (unseen ngrams)
+1 sentence, 30 words, 6 OOVs
+lgprob=-68.6191630575 ppl=555.6054821972
+
+
+
+Sent #12: <s> Absent other working capital , he said , the RTC would be forced to delay other thrift resolutions until cash could be raised by selling the bad assets . </s>
+1: lg P(absent | <s>) = -inf (unknown word)
+2: lg P(other | <s> absent) = -3.5500754093 (unseen ngrams)
+3: lg P(working | absent other) = -4.6292567787 (unseen ngrams)
+4: lg P(capital | other working) = -4.328226598 (unseen ngrams)
+5: lg P(, | working capital) = -2.0419199169 (unseen ngrams)
+6: lg P(he | capital ,) = -2.018103695 (unseen ngrams)
+7: lg P(said | , he) = -0.7663236415
+8: lg P(, | he said) = -1.4714530255
+9: lg P(the | said ,) = -1.0827826322
+10: lg P(rtc | , the) = -inf (unknown word)
+11: lg P(would | the rtc) = -3.5381761893 (unseen ngrams)
+12: lg P(be | rtc would) = -0.7604915176 (unseen ngrams)
+13: lg P(forced | would be) = -inf (unknown word)
+14: lg P(to | be forced) = -2.3912105494 (unseen ngrams)
+15: lg P(delay | forced to) = -inf (unknown word)
+16: lg P(other | to delay) = -3.5500754093 (unseen ngrams)
+17: lg P(thrift | delay other) = -4.6292567787 (unseen ngrams)
+18: lg P(resolutions | other thrift) = -inf (unknown word)
+19: lg P(until | thrift resolutions) = -3.9924345957 (unseen ngrams)
+20: lg P(cash | resolutions until) = -4.504318042 (unseen ngrams)
+21: lg P(could | until cash) = -3.6914045574 (unseen ngrams)
+22: lg P(be | cash could) = -1.0318990439 (unseen ngrams)
+23: lg P(raised | could be) = -1.9880114193 (unseen ngrams)
+24: lg P(by | be raised) = -0.572427999
+25: lg P(selling | raised by) = -5.1063780334 (unseen ngrams)
+26: lg P(the | by selling) = -2.0203742003 (unseen ngrams)
+27: lg P(bad | selling the) = -4.8053480377 (unseen ngrams)
+28: lg P(assets | the bad) = -4.504318042 (unseen ngrams)
+29: lg P(. | bad assets) = -0.6825260819 (unseen ngrams)
+30: lg P(</s> | assets .) = -0.1210694571
+1 sentence, 29 words, 5 OOVs
+lgprob=-67.7778616511 ppl=514.1791547965
+
+
+
+Sent #13: <s> `` We would have to wait until we have collected on those assets before we can move forward , '' he said . </s>
+1: lg P(`` | <s>) = -1.1579972204
+2: lg P(we | <s> ``) = -1.7759134014
+3: lg P(would | `` we) = -1.1365766715 (unseen ngrams)
+4: lg P(have | we would) = -0.8182205611 (unseen ngrams)
+5: lg P(to | would have) = -1.26710417
+6: lg P(wait | have to) = -5.1063780334 (unseen ngrams)
+7: lg P(until | to wait) = -0.0968547758 (unseen ngrams)
+8: lg P(we | wait until) = -4.0649852473 (unseen ngrams)
+9: lg P(have | until we) = -0.8354070279 (unseen ngrams)
+10: lg P(collected | we have) = -5.1063780334 (unseen ngrams)
+11: lg P(on | have collected) = -2.9760441416 (unseen ngrams)
+12: lg P(those | collected on) = -3.8759289814 (unseen ngrams)
+13: lg P(assets | on those) = -4.504318042 (unseen ngrams)
+14: lg P(before | those assets) = -3.851105405 (unseen ngrams)
+15: lg P(we | assets before) = -4.0649852473 (unseen ngrams)
+16: lg P(can | before we) = -3.8276243156 (unseen ngrams)
+17: lg P(move | we can) = -4.8053480377 (unseen ngrams)
+18: lg P(forward | can move) = -4.8053480377 (unseen ngrams)
+19: lg P(, | move forward) = -2.0419199169 (unseen ngrams)
+20: lg P('' | forward ,) = -1.3031610328 (unseen ngrams)
+21: lg P(he | , '') = -1.5191909548
+22: lg P(said | '' he) = -0.7663236415
+23: lg P(. | he said) = -0.8072484824
+24: lg P(</s> | said .) = -0.1210694571
+1 sentence, 23 words, 0 OOVs
+lgprob=-60.635430836 ppl=336.1060150773
+
+
+
+Sent #14: <s> The complicated language in the huge new law has muddied the fight . </s>
+1: lg P(the | <s>) = -0.8206156946
+2: lg P(complicated | <s> the) = -4.8053480377 (unseen ngrams)
+3: lg P(language | the complicated) = -4.8053480377 (unseen ngrams)
+4: lg P(in | complicated language) = -0.3939639323 (unseen ngrams)
+5: lg P(the | language in) = -0.7977053468
+6: lg P(huge | in the) = -4.8053480377 (unseen ngrams)
+7: lg P(new | the huge) = -3.1196061733 (unseen ngrams)
+8: lg P(law | huge new) = -2.076730592 (unseen ngrams)
+9: lg P(has | new law) = -3.1332500499 (unseen ngrams)
+10: lg P(muddied | law has) = -inf (unknown word)
+11: lg P(the | has muddied) = -2.0203742003 (unseen ngrams)
+12: lg P(fight | muddied the) = -3.1777645056 (unseen ngrams)
+13: lg P(. | the fight) = -2.1125009913 (unseen ngrams)
+14: lg P(</s> | fight .) = -0.1210694571 (unseen ngrams)
+1 sentence, 13 words, 1 OOVs
+lgprob=-32.1896250563 ppl=299.3126033404
+
+
+
+Sent #15: <s> The law does allow the RTC to borrow from the Treasury up to $ 5 billion at any time . </s>
+1: lg P(the | <s>) = -0.8206156946
+2: lg P(law | <s> the) = -2.677389173 (unseen ngrams)
+3: lg P(does | the law) = -3.9924345957 (unseen ngrams)
+4: lg P(allow | law does) = -4.8053480377 (unseen ngrams)
+5: lg P(the | does allow) = -2.0203742003 (unseen ngrams)
+6: lg P(rtc | allow the) = -inf (unknown word)
+7: lg P(to | the rtc) = -2.3912105494 (unseen ngrams)
+8: lg P(borrow | rtc to) = -inf (unknown word)
+9: lg P(from | to borrow) = -3.2430550516 (unseen ngrams)
+10: lg P(the | borrow from) = -0.7331002799 (unseen ngrams)
+11: lg P(treasury | from the) = -2.8691233169 (unseen ngrams)
+12: lg P(up | the treasury) = -3.5623098622 (unseen ngrams)
+13: lg P(to | treasury up) = -1.0200374006 (unseen ngrams)
+14: lg P($ | up to) = -1.6474458979 (unseen ngrams)
+15: lg P(5 | to $) = -4.8053480377 (unseen ngrams)
+16: lg P(billion | $ 5) = -3.5381761893 (unseen ngrams)
+17: lg P(at | 5 billion) = -1.6504265843 (unseen ngrams)
+18: lg P(any | billion at) = -3.7446500526 (unseen ngrams)
+19: lg P(time | at any) = -3.7639552012 (unseen ngrams)
+20: lg P(. | any time) = -1.3557433014 (unseen ngrams)
+21: lg P(</s> | time .) = -0.1210694571
+1 sentence, 20 words, 2 OOVs
+lgprob=-48.7618128834 ppl=368.4776954035
+
+
+
+Sent #16: <s> Moreover , it says the RTC 's total obligations may not exceed $ 50 billion , but that figure is derived after including notes and other debt , and subtracting from it the market value of the assets the RTC holds . </s>
+1: lg P(moreover | <s>) = -2.7916513818
+2: lg P(, | <s> moreover) = -0.0920085989
+3: lg P(it | moreover ,) = -2.144026535 (unseen ngrams)
+4: lg P(says | , it) = -3.267528814 (unseen ngrams)
+5: lg P(the | it says) = -0.9901442173 (unseen ngrams)
+6: lg P(rtc | says the) = -inf (unknown word)
+7: lg P('s | the rtc) = -2.7067041837 (unseen ngrams)
+8: lg P(total | rtc 's) = -4.1521354006 (unseen ngrams)
+9: lg P(obligations | 's total) = -5.1063780334 (unseen ngrams)
+10: lg P(may | total obligations) = -3.851105405 (unseen ngrams)
+11: lg P(not | obligations may) = -1.0497016913 (unseen ngrams)
+12: lg P(exceed | may not) = -5.1063780334 (unseen ngrams)
+13: lg P($ | not exceed) = -3.0271966579 (unseen ngrams)
+14: lg P(50 | exceed $) = -2.1720309812 (unseen ngrams)
+15: lg P(billion | $ 50) = -3.5381761893 (unseen ngrams)
+16: lg P(, | 50 billion) = -0.8575804684 (unseen ngrams)
+17: lg P(but | billion ,) = -1.7318533052 (unseen ngrams)
+18: lg P(that | , but) = -1.9250181144
+19: lg P(figure | but that) = -4.8053480377 (unseen ngrams)
+20: lg P(is | that figure) = -2.9274009612 (unseen ngrams)
+21: lg P(derived | figure is) = -inf (unknown word)
+22: lg P(after | is derived) = -3.6750141459 (unseen ngrams)
+23: lg P(including | derived after) = -4.1521354006 (unseen ngrams)
+24: lg P(notes | after including) = -4.4074078071 (unseen ngrams)
+25: lg P(and | including notes) = -2.4978518741 (unseen ngrams)
+26: lg P(other | notes and) = -1.7443469418 (unseen ngrams)
+27: lg P(debt | and other) = -3.9924345957 (unseen ngrams)
+28: lg P(, | other debt) = -0.7128809978 (unseen ngrams)
+29: lg P(and | debt ,) = -1.5023266045 (unseen ngrams)
+30: lg P(subtracting | , and) = -inf (unknown word)
+31: lg P(from | and subtracting) = -3.2430550516 (unseen ngrams)
+32: lg P(it | subtracting from) = -3.0129562229 (unseen ngrams)
+33: lg P(the | from it) = -2.0203742003 (unseen ngrams)
+34: lg P(market | it the) = -2.6839071169 (unseen ngrams)
+35: lg P(value | the market) = -4.328226598 (unseen ngrams)
+36: lg P(of | market value) = -0.3926606148 (unseen ngrams)
+37: lg P(the | value of) = -0.7514830995 (unseen ngrams)
+38: lg P(assets | of the) = -4.504318042 (unseen ngrams)
+39: lg P(the | the assets) = -2.0203742003 (unseen ngrams)
+40: lg P(rtc | assets the) = -inf (unknown word)
+41: lg P(holds | the rtc) = -4.8053480377 (unseen ngrams)
+42: lg P(. | rtc holds) = -2.1125009913 (unseen ngrams)
+43: lg P(</s> | holds .) = -0.1210694571 (unseen ngrams)
+1 sentence, 42 words, 4 OOVs
+lgprob=-104.9230390096 ppl=490.1560117082
+
+
+
+Sent #17: <s> But Congress did n't anticipate or intend more public debt , say opponents of the RTC 's working-capital plan , and Rep. Charles Schumer -LRB- D. , N.Y . -RRB- said the RTC Oversight Board has been remiss in not keeping Congress informed . </s>
+1: lg P(but | <s>) = -1.4866419614
+2: lg P(congress | <s> but) = -4.328226598 (unseen ngrams)
+3: lg P(did | but congress) = -3.7084378915 (unseen ngrams)
+4: lg P(n't | congress did) = -0.4940540097 (unseen ngrams)
+5: lg P(anticipate | did n't) = -inf (unknown word)
+6: lg P(or | n't anticipate) = -3.3988077267 (unseen ngrams)
+7: lg P(intend | anticipate or) = -inf (unknown word)
+8: lg P(more | or intend) = -3.4251366804 (unseen ngrams)
+9: lg P(public | intend more) = -4.328226598 (unseen ngrams)
+10: lg P(debt | more public) = -3.9924345957 (unseen ngrams)
+11: lg P(, | public debt) = -0.7128809978 (unseen ngrams)
+12: lg P(say | debt ,) = -3.049065999 (unseen ngrams)
+13: lg P(opponents | , say) = -inf (unknown word)
+14: lg P(of | say opponents) = -2.3104978882 (unseen ngrams)
+15: lg P(the | opponents of) = -0.7514830995 (unseen ngrams)
+16: lg P(rtc | of the) = -inf (unknown word)
+17: lg P('s | the rtc) = -2.7067041837 (unseen ngrams)
+18: lg P(working-capital | rtc 's) = -inf (unknown word)
+19: lg P(plan | 's working-capital) = -3.9924345957 (unseen ngrams)
+20: lg P(, | working-capital plan) = -1.1510824894 (unseen ngrams)
+21: lg P(and | plan ,) = -1.5023266045 (unseen ngrams)
+22: lg P(rep. | , and) = -4.8053480377 (unseen ngrams)
+23: lg P(charles | and rep.) = -4.6292567787 (unseen ngrams)
+24: lg P(schumer | rep. charles) = -inf (unknown word)
+25: lg P(-lrb- | charles schumer) = -4.0271966949 (unseen ngrams)
+26: lg P(d. | schumer -lrb-) = -4.8053480377 (unseen ngrams)
+27: lg P(, | -lrb- d.) = -2.0419199169 (unseen ngrams)
+28: lg P(n.y | d. ,) = -inf (unknown word)
+29: lg P(. | , n.y) = -2.1125009913 (unseen ngrams)
+30: lg P(-rrb- | n.y .) = -2.7653187835 (unseen ngrams)
+31: lg P(said | . -rrb-) = -2.8968628887 (unseen ngrams)
+32: lg P(the | -rrb- said) = -0.8761532862 (unseen ngrams)
+33: lg P(rtc | said the) = -inf (unknown word)
+34: lg P(oversight | the rtc) = -5.1063780334 (unseen ngrams)
+35: lg P(board | rtc oversight) = -3.9924345957 (unseen ngrams)
+36: lg P(has | oversight board) = -1.20569153 (unseen ngrams)
+37: lg P(been | board has) = -1.0274847453 (unseen ngrams)
+38: lg P(remiss | has been) = -inf (unknown word)
+39: lg P(in | been remiss) = -2.4342800479 (unseen ngrams)
+40: lg P(not | remiss in) = -3.52659432 (unseen ngrams)
+41: lg P(keeping | in not) = -5.1063780334 (unseen ngrams)
+42: lg P(congress | not keeping) = -4.328226598 (unseen ngrams)
+43: lg P(informed | keeping congress) = -inf (unknown word)
+44: lg P(. | congress informed) = -2.1125009913 (unseen ngrams)
+45: lg P(</s> | informed .) = -0.1210694571 (unseen ngrams)
+1 sentence, 44 words, 10 OOVs
+lgprob=-99.2593856869 ppl=685.4605233351
+
+
+
+Sent #18: <s> `` That secrecy leads to a proposal like the one from Ways and Means , which seems to me sort of draconian , '' he said . </s>
+1: lg P(`` | <s>) = -1.1579972204
+2: lg P(that | <s> ``) = -1.8499157381
+3: lg P(secrecy | `` that) = -inf (unknown word)
+4: lg P(leads | that secrecy) = -inf (unknown word)
+5: lg P(to | secrecy leads) = -2.3912105494 (unseen ngrams)
+6: lg P(a | leads to) = -1.6199441506 (unseen ngrams)
+7: lg P(proposal | to a) = -2.7938109697 (unseen ngrams)
+8: lg P(like | a proposal) = -3.9924345957 (unseen ngrams)
+9: lg P(the | proposal like) = -1.1482515884 (unseen ngrams)
+10: lg P(one | like the) = -3.0277670861 (unseen ngrams)
+11: lg P(from | the one) = -3.2430550516 (unseen ngrams)
+12: lg P(ways | one from) = -inf (unknown word)
+13: lg P(and | from ways) = -2.4978518741 (unseen ngrams)
+14: lg P(means | ways and) = -5.1063780334 (unseen ngrams)
+15: lg P(, | and means) = -2.0419199169 (unseen ngrams)
+16: lg P(which | means ,) = -1.692056489 (unseen ngrams)
+17: lg P(seems | , which) = -4.8053480377 (unseen ngrams)
+18: lg P(to | which seems) = -0.3935514929 (unseen ngrams)
+19: lg P(me | seems to) = -4.6292567787 (unseen ngrams)
+20: lg P(sort | to me) = -inf (unknown word)
+21: lg P(of | me sort) = -2.3104978882 (unseen ngrams)
+22: lg P(draconian | sort of) = -inf (unknown word)
+23: lg P(, | of draconian) = -2.0419199169 (unseen ngrams)
+24: lg P('' | draconian ,) = -1.3031610328 (unseen ngrams)
+25: lg P(he | , '') = -1.5191909548
+26: lg P(said | '' he) = -0.7663236415
+27: lg P(. | he said) = -0.8072484824
+28: lg P(</s> | said .) = -0.1210694571
+1 sentence, 27 words, 5 OOVs
+lgprob=-51.2601609464 ppl=169.3178128388
+
+
+
+Sent #19: <s> `` The RTC is going to have to pay a price of prior consultation on the Hill if they want that kind of flexibility . '' </s>
+1: lg P(`` | <s>) = -1.1579972204
+2: lg P(the | <s> ``) = -1.1424160419
+3: lg P(rtc | `` the) = -inf (unknown word)
+4: lg P(is | the rtc) = -2.9274009612 (unseen ngrams)
+5: lg P(going | rtc is) = -4.4074078071 (unseen ngrams)
+6: lg P(to | is going) = -0.1910720113 (unseen ngrams)
+7: lg P(have | going to) = -2.1680085981
+8: lg P(to | to have) = -1.26710417
+9: lg P(pay | have to) = -2.1082824272 (unseen ngrams)
+10: lg P(a | to pay) = -2.4030865278 (unseen ngrams)
+11: lg P(price | pay a) = -2.7854340887 (unseen ngrams)
+12: lg P(of | a price) = -2.3104978882 (unseen ngrams)
+13: lg P(prior | price of) = -4.8053480377 (unseen ngrams)
+14: lg P(consultation | of prior) = -inf (unknown word)
+15: lg P(on | prior consultation) = -2.9760441416 (unseen ngrams)
+16: lg P(the | consultation on) = -0.5405167129 (unseen ngrams)
+17: lg P(hill | on the) = -4.8053480377 (unseen ngrams)
+18: lg P(if | the hill) = -3.726166653 (unseen ngrams)
+19: lg P(they | hill if) = -0.8733056105 (unseen ngrams)
+20: lg P(want | if they) = -4.4074078071 (unseen ngrams)
+21: lg P(that | they want) = -2.7883145704 (unseen ngrams)
+22: lg P(kind | want that) = -4.4074078071 (unseen ngrams)
+23: lg P(of | that kind) = -0.314354823 (unseen ngrams)
+24: lg P(flexibility | kind of) = -inf (unknown word)
+25: lg P(. | of flexibility) = -2.1125009913 (unseen ngrams)
+26: lg P('' | flexibility .) = -1.3212371498 (unseen ngrams)
+27: lg P(</s> | . '') = -0.5820374308
+1 sentence, 26 words, 3 OOVs
+lgprob=-56.5286975148 ppl=226.6534825669
+
+
+
+Sent #20: <s> The Ways and Means Committee will hold a hearing on the bill next Tuesday . </s>
+1: lg P(the | <s>) = -0.8206156946
+2: lg P(ways | <s> the) = -inf (unknown word)
+3: lg P(and | the ways) = -2.4978518741 (unseen ngrams)
+4: lg P(means | ways and) = -5.1063780334 (unseen ngrams)
+5: lg P(committee | and means) = -4.2612798348 (unseen ngrams)
+6: lg P(will | means committee) = -3.2612798665 (unseen ngrams)
+7: lg P(hold | committee will) = -4.8053480377 (unseen ngrams)
+8: lg P(a | will hold) = -0.3936692927 (unseen ngrams)
+9: lg P(hearing | hold a) = -4.504318042 (unseen ngrams)
+10: lg P(on | a hearing) = -2.9760441416 (unseen ngrams)
+11: lg P(the | hearing on) = -0.5405167129 (unseen ngrams)
+12: lg P(bill | on the) = -4.4074078071 (unseen ngrams)
+13: lg P(next | the bill) = -3.8276243156 (unseen ngrams)
+14: lg P(tuesday | bill next) = -4.328226598 (unseen ngrams)
+15: lg P(. | next tuesday) = -0.561640324 (unseen ngrams)
+16: lg P(</s> | tuesday .) = -0.1210694571
+1 sentence, 15 words, 1 OOVs
+lgprob=-42.4132700321 ppl=672.2817710083
+
+
+
+Sent #21: <s> We 're about to see if advertising works . </s>
+1: lg P(we | <s>) = -3.0525161362
+2: lg P('re | <s> we) = -0.8371558628
+3: lg P(about | we 're) = -3.2934645572 (unseen ngrams)
+4: lg P(to | 're about) = -1.785947192 (unseen ngrams)
+5: lg P(see | about to) = -2.5066588659 (unseen ngrams)
+6: lg P(if | to see) = -3.726166653 (unseen ngrams)
+7: lg P(advertising | see if) = -4.504318042 (unseen ngrams)
+8: lg P(works | if advertising) = -5.1063780334 (unseen ngrams)
+9: lg P(. | advertising works) = -2.1125009913 (unseen ngrams)
+10: lg P(</s> | works .) = -0.1210694571 (unseen ngrams)
+1 sentence, 9 words, 0 OOVs
+lgprob=-27.0461757909 ppl=506.544470714
+
+
+
+Sent #22: <s> Hard on the heels of Friday 's 190-point stock-market plunge and the uncertainty that 's followed , a few big brokerage firms are rolling out new ads trumpeting a familiar message : Keep on investing , the market 's just fine . </s>
+1: lg P(hard | <s>) = -4.2032879077 (unseen ngrams)
+2: lg P(on | <s> hard) = -2.9760441416 (unseen ngrams)
+3: lg P(the | hard on) = -0.5405167129 (unseen ngrams)
+4: lg P(heels | on the) = -inf (unknown word)
+5: lg P(of | the heels) = -2.3104978882 (unseen ngrams)
+6: lg P(friday | heels of) = -5.1063780334 (unseen ngrams)
+7: lg P('s | of friday) = -2.7067041837 (unseen ngrams)
+8: lg P(190-point | friday 's) = -inf (unknown word)
+9: lg P(stock-market | 's 190-point) = -inf (unknown word)
+10: lg P(plunge | 190-point stock-market) = -inf (unknown word)
+11: lg P(and | stock-market plunge) = -2.4978518741 (unseen ngrams)
+12: lg P(the | plunge and) = -1.1890009858 (unseen ngrams)
+13: lg P(uncertainty | and the) = -5.1063780334 (unseen ngrams)
+14: lg P(that | the uncertainty) = -2.7883145704 (unseen ngrams)
+15: lg P('s | uncertainty that) = -1.8695645998 (unseen ngrams)
+16: lg P(followed | that 's) = -4.8053480377 (unseen ngrams)
+17: lg P(, | 's followed) = -2.0419199169 (unseen ngrams)
+18: lg P(a | followed ,) = -1.3570126769 (unseen ngrams)
+19: lg P(few | , a) = -2.0982374815 (unseen ngrams)
+20: lg P(big | a few) = -4.2612798348 (unseen ngrams)
+21: lg P(brokerage | few big) = -inf (unknown word)
+22: lg P(firms | big brokerage) = -4.504318042 (unseen ngrams)
+23: lg P(are | brokerage firms) = -0.6972905369 (unseen ngrams)
+24: lg P(rolling | firms are) = -inf (unknown word)
+25: lg P(out | are rolling) = -3.784158633 (unseen ngrams)
+26: lg P(new | rolling out) = -3.1196061733 (unseen ngrams)
+27: lg P(ads | out new) = -2.0808060188 (unseen ngrams)
+28: lg P(trumpeting | new ads) = -inf (unknown word)
+29: lg P(a | ads trumpeting) = -2.4030865278 (unseen ngrams)
+30: lg P(familiar | trumpeting a) = -4.6292567787 (unseen ngrams)
+31: lg P(message | a familiar) = -4.6292567787 (unseen ngrams)
+32: lg P(: | familiar message) = -3.726166653 (unseen ngrams)
+33: lg P(keep | message :) = -4.6292567787 (unseen ngrams)
+34: lg P(on | : keep) = -2.9760441416 (unseen ngrams)
+35: lg P(investing | keep on) = -5.1063780334 (unseen ngrams)
+36: lg P(, | on investing) = -2.0419199169 (unseen ngrams)
+37: lg P(the | investing ,) = -1.0827826322 (unseen ngrams)
+38: lg P(market | , the) = -2.6839071169 (unseen ngrams)
+39: lg P('s | the market) = -2.7067041837 (unseen ngrams)
+40: lg P(just | market 's) = -4.1521354006 (unseen ngrams)
+41: lg P(fine | 's just) = -4.6292567787 (unseen ngrams)
+42: lg P(. | just fine) = -0.2667616106 (unseen ngrams)
+43: lg P(</s> | fine .) = -0.1210694571
+1 sentence, 42 words, 7 OOVs
+lgprob=-105.8284990714 ppl=870.3231382751
+
+
+
+Sent #23: <s> Their mission is to keep clients from fleeing the market , as individual investors did in droves after the crash in October </s>
+1: lg P(their | <s>) = -2.9384582961
+2: lg P(mission | <s> their) = -5.1063780334 (unseen ngrams)
+3: lg P(is | their mission) = -2.9274009612 (unseen ngrams)
+4: lg P(to | mission is) = -1.8339107714 (unseen ngrams)
+5: lg P(keep | is to) = -2.3327563173 (unseen ngrams)
+6: lg P(clients | to keep) = -4.2612798348 (unseen ngrams)
+7: lg P(from | keep clients) = -3.2430550516 (unseen ngrams)
+8: lg P(fleeing | clients from) = -inf (unknown word)
+9: lg P(the | from fleeing) = -2.0203742003 (unseen ngrams)
+10: lg P(market | fleeing the) = -2.6839071169 (unseen ngrams)
+11: lg P(, | the market) = -1.1510824894 (unseen ngrams)
+12: lg P(as | market ,) = -2.1579834912 (unseen ngrams)
+13: lg P(individual | , as) = -2.0730218824 (unseen ngrams)
+14: lg P(investors | as individual) = -0.6986641631
+15: lg P(did | individual investors) = -3.7084378915 (unseen ngrams)
+16: lg P(in | investors did) = -2.4342800479 (unseen ngrams)
+17: lg P(droves | did in) = -inf (unknown word)
+18: lg P(after | in droves) = -3.6750141459 (unseen ngrams)
+19: lg P(the | droves after) = -0.7274170596 (unseen ngrams)
+20: lg P(crash | after the) = -4.8053480377 (unseen ngrams)
+21: lg P(in | the crash) = -2.4342800479 (unseen ngrams)
+22: lg P(october | crash in) = -1.6524606603 (unseen ngrams)
+23: lg P(</s> | in october) = -2.1063779058 (unseen ngrams)
+1 sentence, 22 words, 2 OOVs
+lgprob=-54.9718884057 ppl=414.676067848
+
+
+
+Sent #24: <s> Just days after the 1987 crash , major brokerage firms rushed out ads to calm investors . </s>
+1: lg P(just | <s>) = -4.1521354006 (unseen ngrams)
+2: lg P(days | <s> just) = -4.0649852473 (unseen ngrams)
+3: lg P(after | just days) = -3.6750141459 (unseen ngrams)
+4: lg P(the | days after) = -0.7274170596 (unseen ngrams)
+5: lg P(1987 | after the) = -2.856727168
+6: lg P(crash | the 1987) = -1.0968250355
+7: lg P(, | 1987 crash) = -2.0419199169 (unseen ngrams)
+8: lg P(major | crash ,) = -4.2612798348 (unseen ngrams)
+9: lg P(brokerage | , major) = -inf (unknown word)
+10: lg P(firms | major brokerage) = -4.504318042 (unseen ngrams)
+11: lg P(rushed | brokerage firms) = -inf (unknown word)
+12: lg P(out | firms rushed) = -3.784158633 (unseen ngrams)
+13: lg P(ads | rushed out) = -4.2612798348 (unseen ngrams)
+14: lg P(to | out ads) = -2.3912105494 (unseen ngrams)
+15: lg P(calm | ads to) = -inf (unknown word)
+16: lg P(investors | to calm) = -3.851105405 (unseen ngrams)
+17: lg P(. | calm investors) = -0.7316662112 (unseen ngrams)
+18: lg P(</s> | investors .) = -0.1210694571
+1 sentence, 17 words, 3 OOVs
+lgprob=-42.5211119411 ppl=683.5035838573
+
+
+
+Sent #25: <s> This time around , they 're moving even faster . </s>
+1: lg P(this | <s>) = -2.2821062472
+2: lg P(time | <s> this) = -1.8242847299
+3: lg P(around | this time) = -4.2612798348 (unseen ngrams)
+4: lg P(, | time around) = -0.9088059466 (unseen ngrams)
+5: lg P(they | around ,) = -2.3992043283 (unseen ngrams)
+6: lg P('re | , they) = -1.4581494549
+7: lg P(moving | they 're) = -inf (unknown word)
+8: lg P(even | 're moving) = -3.8276243156 (unseen ngrams)
+9: lg P(faster | moving even) = -5.1063780334 (unseen ngrams)
+10: lg P(. | even faster) = -2.1125009913 (unseen ngrams)
+11: lg P(</s> | faster .) = -0.1210694571 (unseen ngrams)
+1 sentence, 10 words, 1 OOVs
+lgprob=-24.3014033391 ppl=269.240466217
+
+
+
+Sent #26: <s> PaineWebber Inc. filmed a new television commercial at 4 p.m. EDT yesterday and had it on the air by last night . </s>
+1: lg P(painewebber | <s>) = -inf (unknown word)
+2: lg P(inc. | <s> painewebber) = -3.8276243156 (unseen ngrams)
+3: lg P(filmed | painewebber inc.) = -5.1063780334 (unseen ngrams)
+4: lg P(a | inc. filmed) = -2.4030865278 (unseen ngrams)
+5: lg P(new | filmed a) = -1.6104504519 (unseen ngrams)
+6: lg P(television | a new) = -4.328226598 (unseen ngrams)
+7: lg P(commercial | new television) = -0.8748828298 (unseen ngrams)
+8: lg P(at | television commercial) = -3.1286542996 (unseen ngrams)
+9: lg P(4 | commercial at) = -4.6292567787 (unseen ngrams)
+10: lg P(p.m. | at 4) = -inf (unknown word)
+11: lg P(edt | 4 p.m.) = -inf (unknown word)
+12: lg P(yesterday | p.m. edt) = -4.1063779224 (unseen ngrams)
+13: lg P(and | edt yesterday) = -2.4978518741 (unseen ngrams)
+14: lg P(had | yesterday and) = -3.4729094488 (unseen ngrams)
+15: lg P(it | and had) = -1.4181650983 (unseen ngrams)
+16: lg P(on | had it) = -2.9760441416 (unseen ngrams)
+17: lg P(the | it on) = -0.5405167129 (unseen ngrams)
+18: lg P(air | on the) = -inf (unknown word)
+19: lg P(by | the air) = -3.006007365 (unseen ngrams)
+20: lg P(last | air by) = -3.52659432 (unseen ngrams)
+21: lg P(night | by last) = -4.6292567787 (unseen ngrams)
+22: lg P(. | last night) = -0.561640324 (unseen ngrams)
+23: lg P(</s> | night .) = -0.1210694571
+1 sentence, 22 words, 4 OOVs
+lgprob=-52.7649932777 ppl=598.5561664486
+
+
+
+Sent #27: <s> Fidelity Investments placed new ads in newspapers yesterday , and wrote another new ad appearing today . </s>
+1: lg P(fidelity | <s>) = -inf (unknown word)
+2: lg P(investments | <s> fidelity) = -4.6292567787 (unseen ngrams)
+3: lg P(placed | fidelity investments) = -4.6292567787 (unseen ngrams)
+4: lg P(new | investments placed) = -3.1196061733 (unseen ngrams)
+5: lg P(ads | placed new) = -2.0808060188 (unseen ngrams)
+6: lg P(in | new ads) = -2.4342800479 (unseen ngrams)
+7: lg P(newspapers | ads in) = -5.1063780334 (unseen ngrams)
+8: lg P(yesterday | in newspapers) = -4.1063779224 (unseen ngrams)
+9: lg P(, | newspapers yesterday) = -0.6036613531 (unseen ngrams)
+10: lg P(and | yesterday ,) = -1.5023266045 (unseen ngrams)
+11: lg P(wrote | , and) = -inf (unknown word)
+12: lg P(another | and wrote) = -3.8053479267 (unseen ngrams)
+13: lg P(new | wrote another) = -3.1196061733 (unseen ngrams)
+14: lg P(ad | another new) = -2.07511107 (unseen ngrams)
+15: lg P(appearing | new ad) = -inf (unknown word)
+16: lg P(today | ad appearing) = -4.4074078071 (unseen ngrams)
+17: lg P(. | appearing today) = -0.7754205904 (unseen ngrams)
+18: lg P(</s> | today .) = -0.1210694571
+1 sentence, 17 words, 3 OOVs
+lgprob=-42.5159127354 ppl=682.958292103
+
+
+
+Sent #28: <s> Shearson Lehman Hutton Inc. by yesterday afternoon had already written new TV ads . </s>
+1: lg P(shearson | <s>) = -4.8053480377 (unseen ngrams)
+2: lg P(lehman | <s> shearson) = -0.0969015145 (unseen ngrams)
+3: lg P(hutton | shearson lehman) = -0.0969015145
+4: lg P(inc. | lehman hutton) = -3.8276243156 (unseen ngrams)
+5: lg P(by | hutton inc.) = -3.006007365 (unseen ngrams)
+6: lg P(yesterday | inc. by) = -4.1063779224 (unseen ngrams)
+7: lg P(afternoon | by yesterday) = -inf (unknown word)
+8: lg P(had | yesterday afternoon) = -3.4729094488 (unseen ngrams)
+9: lg P(already | afternoon had) = -4.504318042 (unseen ngrams)
+10: lg P(written | had already) = -4.6292567787 (unseen ngrams)
+11: lg P(new | already written) = -3.1196061733 (unseen ngrams)
+12: lg P(tv | written new) = -4.4074078071 (unseen ngrams)
+13: lg P(ads | new tv) = -0.7957313176 (unseen ngrams)
+14: lg P(. | tv ads) = -2.1125009913 (unseen ngrams)
+15: lg P(</s> | ads .) = -0.1210694571 (unseen ngrams)
+1 sentence, 14 words, 1 OOVs
+lgprob=-39.1019606856 ppl=620.8650196705
+
+
+
+Sent #29: <s> It considered running them during tomorrow night 's World Series broadcast but decided not to when the market recovered yesterday . </s>
+1: lg P(it | <s>) = -1.8365223316
+2: lg P(considered | <s> it) = -4.328226598 (unseen ngrams)
+3: lg P(running | it considered) = -5.1063780334 (unseen ngrams)
+4: lg P(them | considered running) = -3.8759289814 (unseen ngrams)
+5: lg P(during | running them) = -4.2032879077 (unseen ngrams)
+6: lg P(tomorrow | them during) = -inf (unknown word)
+7: lg P(night | during tomorrow) = -4.6292567787 (unseen ngrams)
+8: lg P('s | tomorrow night) = -2.7067041837 (unseen ngrams)
+9: lg P(world | night 's) = -3.9924345957 (unseen ngrams)
+10: lg P(series | 's world) = -5.1063780334 (unseen ngrams)
+11: lg P(broadcast | world series) = -inf (unknown word)
+12: lg P(but | series broadcast) = -3.2142833026 (unseen ngrams)
+13: lg P(decided | broadcast but) = -4.328226598 (unseen ngrams)
+14: lg P(not | but decided) = -0.8740935042 (unseen ngrams)
+15: lg P(to | decided not) = -1.1724991788
+16: lg P(when | not to) = -3.6439799207 (unseen ngrams)
+17: lg P(the | to when) = -0.8312882642 (unseen ngrams)
+18: lg P(market | when the) = -2.6839071169 (unseen ngrams)
+19: lg P(recovered | the market) = -inf (unknown word)
+20: lg P(yesterday | market recovered) = -4.1063779224 (unseen ngrams)
+21: lg P(. | recovered yesterday) = -1.0569117862 (unseen ngrams)
+22: lg P(</s> | yesterday .) = -0.1210694571
+1 sentence, 21 words, 3 OOVs
+lgprob=-57.8177544947 ppl=1104.1795772972
+
+
+
+Sent #30: <s> Other brokerage firms , including Merrill Lynch & Co. , were plotting out potential new ad strategies . </s>
+1: lg P(other | <s>) = -3.5500754093 (unseen ngrams)
+2: lg P(brokerage | <s> other) = -inf (unknown word)
+3: lg P(firms | other brokerage) = -4.504318042 (unseen ngrams)
+4: lg P(, | brokerage firms) = -2.0419199169 (unseen ngrams)
+5: lg P(including | firms ,) = -2.3758852192 (unseen ngrams)
+6: lg P(merrill | , including) = -inf (unknown word)
+7: lg P(lynch | including merrill) = -inf (unknown word)
+8: lg P(& | merrill lynch) = -3.8759289814 (unseen ngrams)
+9: lg P(co. | lynch &) = -0.6281578301 (unseen ngrams)
+10: lg P(, | & co.) = -0.4448089293
+11: lg P(were | co. ,) = -2.6131699233 (unseen ngrams)
+12: lg P(plotting | , were) = -inf (unknown word)
+13: lg P(out | were plotting) = -3.784158633 (unseen ngrams)
+14: lg P(potential | plotting out) = -4.504318042 (unseen ngrams)
+15: lg P(new | out potential) = -3.1196061733 (unseen ngrams)
+16: lg P(ad | potential new) = -2.07511107 (unseen ngrams)
+17: lg P(strategies | new ad) = -inf (unknown word)
+18: lg P(. | ad strategies) = -2.1125009913 (unseen ngrams)
+19: lg P(</s> | strategies .) = -0.1210694571 (unseen ngrams)
+1 sentence, 18 words, 5 OOVs
+lgprob=-35.7510286182 ppl=357.8037610198
+
+
+
+Sent #31: <s> The brokerage firms learned a lesson the last time around , when frightened investors flooded the phone lines and fled the market in a panic . </s>
+1: lg P(the | <s>) = -0.8206156946
+2: lg P(brokerage | <s> the) = -inf (unknown word)
+3: lg P(firms | the brokerage) = -4.504318042 (unseen ngrams)
+4: lg P(learned | brokerage firms) = -4.8053480377 (unseen ngrams)
+5: lg P(a | firms learned) = -2.4030865278 (unseen ngrams)
+6: lg P(lesson | learned a) = -2.7980607885 (unseen ngrams)
+7: lg P(the | a lesson) = -2.0203742003 (unseen ngrams)
+8: lg P(last | lesson the) = -2.3105691506 (unseen ngrams)
+9: lg P(time | the last) = -3.7639552012 (unseen ngrams)
+10: lg P(around | last time) = -4.2612798348 (unseen ngrams)
+11: lg P(, | time around) = -0.9088059466 (unseen ngrams)
+12: lg P(when | around ,) = -2.4347104172 (unseen ngrams)
+13: lg P(frightened | , when) = -inf (unknown word)
+14: lg P(investors | when frightened) = -3.851105405 (unseen ngrams)
+15: lg P(flooded | frightened investors) = -inf (unknown word)
+16: lg P(the | investors flooded) = -2.0203742003 (unseen ngrams)
+17: lg P(phone | flooded the) = -5.1063780334 (unseen ngrams)
+18: lg P(lines | the phone) = -inf (unknown word)
+19: lg P(and | phone lines) = -2.4978518741 (unseen ngrams)
+20: lg P(fled | lines and) = -inf (unknown word)
+21: lg P(the | and fled) = -2.0203742003 (unseen ngrams)
+22: lg P(market | fled the) = -2.6839071169 (unseen ngrams)
+23: lg P(in | the market) = -1.1856366642
+24: lg P(a | market in) = -1.2462726904 (unseen ngrams)
+25: lg P(panic | in a) = -inf (unknown word)
+26: lg P(. | a panic) = -2.1125009913 (unseen ngrams)
+27: lg P(</s> | panic .) = -0.1210694571 (unseen ngrams)
+1 sentence, 26 words, 6 OOVs
+lgprob=-53.8765944743 ppl=367.7495227781
+
+
+
+Sent #32: <s> This time , the firms were ready . </s>
+1: lg P(this | <s>) = -2.2821062472
+2: lg P(time | <s> this) = -1.8242847299
+3: lg P(, | this time) = -0.579012857
+4: lg P(the | time ,) = -1.0827826322
+5: lg P(firms | , the) = -3.1626732778 (unseen ngrams)
+6: lg P(were | the firms) = -3.4342800574 (unseen ngrams)
+7: lg P(ready | firms were) = -5.1063780334 (unseen ngrams)
+8: lg P(. | were ready) = -2.1125009913 (unseen ngrams)
+9: lg P(</s> | ready .) = -0.1210694571 (unseen ngrams)
+1 sentence, 8 words, 0 OOVs
+lgprob=-19.7050882833 ppl=154.687155604
+
+
+
+Sent #33: <s> Fidelity , for example , prepared ads several months ago in case of a market plunge . </s>
+1: lg P(fidelity | <s>) = -inf (unknown word)
+2: lg P(, | <s> fidelity) = -2.0419199169 (unseen ngrams)
+3: lg P(for | fidelity ,) = -1.9657474297 (unseen ngrams)
+4: lg P(example | , for) = -1.6252674256
+5: lg P(, | for example) = -0.2656697399
+6: lg P(prepared | example ,) = -4.8053480377 (unseen ngrams)
+7: lg P(ads | , prepared) = -4.2612798348 (unseen ngrams)
+8: lg P(several | prepared ads) = -4.1063779224 (unseen ngrams)
+9: lg P(months | ads several) = -1.0965702027 (unseen ngrams)
+10: lg P(ago | several months) = -4.2612798348 (unseen ngrams)
+11: lg P(in | months ago) = -2.4342800479 (unseen ngrams)
+12: lg P(case | ago in) = -4.1063779224 (unseen ngrams)
+13: lg P(of | in case) = -1.071132332 (unseen ngrams)
+14: lg P(a | case of) = -1.5687507992 (unseen ngrams)
+15: lg P(market | of a) = -3.9924345957 (unseen ngrams)
+16: lg P(plunge | a market) = -inf (unknown word)
+17: lg P(. | market plunge) = -2.1125009913 (unseen ngrams)
+18: lg P(</s> | plunge .) = -0.1210694571 (unseen ngrams)
+1 sentence, 17 words, 2 OOVs
+lgprob=-39.8360064901 ppl=308.8519912058
+
+
+
+Sent #34: <s> When the market went into its free fall Friday afternoon , the investment firm ordered full pages in the Monday editions of half a dozen newspapers . </s>
+1: lg P(when | <s>) = -2.234555207
+2: lg P(the | <s> when) = -0.8312882642
+3: lg P(market | when the) = -2.6839071169 (unseen ngrams)
+4: lg P(went | the market) = -4.504318042 (unseen ngrams)
+5: lg P(into | market went) = -3.6750141459 (unseen ngrams)
+6: lg P(its | went into) = -3.1718794531 (unseen ngrams)
+7: lg P(free | into its) = -4.504318042 (unseen ngrams)
+8: lg P(fall | its free) = -4.8053480377 (unseen ngrams)
+9: lg P(friday | free fall) = -5.1063780334 (unseen ngrams)
+10: lg P(afternoon | fall friday) = -inf (unknown word)
+11: lg P(, | friday afternoon) = -2.0419199169 (unseen ngrams)
+12: lg P(the | afternoon ,) = -1.0827826322 (unseen ngrams)
+13: lg P(investment | , the) = -2.8470588575
+14: lg P(firm | the investment) = -4.4074078071 (unseen ngrams)
+15: lg P(ordered | investment firm) = -4.4074078071 (unseen ngrams)
+16: lg P(full | firm ordered) = -4.4074078071 (unseen ngrams)
+17: lg P(pages | ordered full) = -4.328226598 (unseen ngrams)
+18: lg P(in | full pages) = -0.8632406016 (unseen ngrams)
+19: lg P(the | pages in) = -0.7977053468
+20: lg P(monday | in the) = -4.6292567787 (unseen ngrams)
+21: lg P(editions | the monday) = -5.1063780334 (unseen ngrams)
+22: lg P(of | monday editions) = -0.0942622939 (unseen ngrams)
+23: lg P(half | editions of) = -4.4074078071 (unseen ngrams)
+24: lg P(a | of half) = -2.4030865278 (unseen ngrams)
+25: lg P(dozen | half a) = -2.4970307929 (unseen ngrams)
+26: lg P(newspapers | a dozen) = -5.1063780334 (unseen ngrams)
+27: lg P(. | dozen newspapers) = -0.0927402938 (unseen ngrams)
+28: lg P(</s> | newspapers .) = -0.1210694571
+1 sentence, 27 words, 1 OOVs
+lgprob=-81.1577737346 ppl=1013.5460178031
+
+
+
+Sent #35: <s> The ads touted Fidelity 's automated 800-number beneath the huge headline , `` Fidelity Is Ready For Your Call . '' </s>
+1: lg P(the | <s>) = -0.8206156946
+2: lg P(ads | <s> the) = -3.1480888776 (unseen ngrams)
+3: lg P(touted | the ads) = -inf (unknown word)
+4: lg P(fidelity | ads touted) = -inf (unknown word)
+5: lg P('s | touted fidelity) = -2.7067041837 (unseen ngrams)
+6: lg P(automated | fidelity 's) = -inf (unknown word)
+7: lg P(800-number | 's automated) = -inf (unknown word)
+8: lg P(beneath | automated 800-number) = -inf (unknown word)
+9: lg P(the | 800-number beneath) = -2.0203742003 (unseen ngrams)
+10: lg P(huge | beneath the) = -4.8053480377 (unseen ngrams)
+11: lg P(headline | the huge) = -inf (unknown word)
+12: lg P(, | huge headline) = -2.0419199169 (unseen ngrams)
+13: lg P(`` | headline ,) = -1.9263657973 (unseen ngrams)
+14: lg P(fidelity | , ``) = -inf (unknown word)
+15: lg P(is | `` fidelity) = -2.9274009612 (unseen ngrams)
+16: lg P(ready | fidelity is) = -5.1063780334 (unseen ngrams)
+17: lg P(for | is ready) = -2.7316295609 (unseen ngrams)
+18: lg P(your | ready for) = -4.504318042 (unseen ngrams)
+19: lg P(call | for your) = -5.1063780334 (unseen ngrams)
+20: lg P(. | your call) = -2.1125009913 (unseen ngrams)
+21: lg P('' | call .) = -1.3212371498 (unseen ngrams)
+22: lg P(</s> | . '') = -0.5820374308
+1 sentence, 21 words, 7 OOVs
+lgprob=-41.8612969109 ppl=617.665191523
+
+
+
+Sent #36: <s> A Fidelity spokesman says the 800-line , which already was operating but which many clients did n't know about , received about double the usual volume of calls over the weekend . </s>
+1: lg P(a | <s>) = -1.6506665413
+2: lg P(fidelity | <s> a) = -inf (unknown word)
+3: lg P(spokesman | a fidelity) = -4.328226598 (unseen ngrams)
+4: lg P(says | fidelity spokesman) = -3.267528814 (unseen ngrams)
+5: lg P(the | spokesman says) = -0.9901442173 (unseen ngrams)
+6: lg P(800-line | says the) = -inf (unknown word)
+7: lg P(, | the 800-line) = -2.0419199169 (unseen ngrams)
+8: lg P(which | 800-line ,) = -1.692056489 (unseen ngrams)
+9: lg P(already | , which) = -1.7089975449
+10: lg P(was | which already) = -3.0025741814 (unseen ngrams)
+11: lg P(operating | already was) = -4.4074078071 (unseen ngrams)
+12: lg P(but | was operating) = -3.2142833026 (unseen ngrams)
+13: lg P(which | operating but) = -3.4935940413 (unseen ngrams)
+14: lg P(many | but which) = -3.6914045574 (unseen ngrams)
+15: lg P(clients | which many) = -4.2612798348 (unseen ngrams)
+16: lg P(did | many clients) = -3.7084378915 (unseen ngrams)
+17: lg P(n't | clients did) = -0.4940540097 (unseen ngrams)
+18: lg P(know | did n't) = -1.9703807094
+19: lg P(about | n't know) = -3.2934645572 (unseen ngrams)
+20: lg P(, | know about) = -2.0419199169 (unseen ngrams)
+21: lg P(received | about ,) = -4.504318042 (unseen ngrams)
+22: lg P(about | , received) = -3.2934645572 (unseen ngrams)
+23: lg P(double | received about) = -5.1063780334 (unseen ngrams)
+24: lg P(the | about double) = -2.0203742003 (unseen ngrams)
+25: lg P(usual | double the) = -5.1063780334 (unseen ngrams)
+26: lg P(volume | the usual) = -4.4074078071 (unseen ngrams)
+27: lg P(of | usual volume) = -0.4882607465 (unseen ngrams)
+28: lg P(calls | volume of) = -4.6292567787 (unseen ngrams)
+29: lg P(over | of calls) = -3.9302866264 (unseen ngrams)
+30: lg P(the | calls over) = -0.5587631689 (unseen ngrams)
+31: lg P(weekend | over the) = -inf (unknown word)
+32: lg P(. | the weekend) = -2.1125009913 (unseen ngrams)
+33: lg P(</s> | weekend .) = -0.1210694571 (unseen ngrams)
+1 sentence, 32 words, 3 OOVs
+lgprob=-85.536799373 ppl=709.9481727823
+
+
+
+Sent #37: <s> `` A lot of investor confidence comes from the fact that they can speak to us , '' he says . </s>
+1: lg P(`` | <s>) = -1.1579972204
+2: lg P(a | <s> ``) = -1.2679853794
+3: lg P(lot | `` a) = -2.3209395265
+4: lg P(of | a lot) = -0.2690357222
+5: lg P(investor | lot of) = -4.8053480377 (unseen ngrams)
+6: lg P(confidence | of investor) = -inf (unknown word)
+7: lg P(comes | investor confidence) = -5.1063780334 (unseen ngrams)
+8: lg P(from | confidence comes) = -3.2430550516 (unseen ngrams)
+9: lg P(the | comes from) = -0.7331002799 (unseen ngrams)
+10: lg P(fact | from the) = -2.8716455848 (unseen ngrams)
+11: lg P(that | the fact) = -0.3961758916
+12: lg P(they | fact that) = -2.3579066069 (unseen ngrams)
+13: lg P(can | that they) = -1.9302237114
+14: lg P(speak | they can) = -inf (unknown word)
+15: lg P(to | can speak) = -2.3912105494 (unseen ngrams)
+16: lg P(us | speak to) = -4.2032879077 (unseen ngrams)
+17: lg P(, | to us) = -0.9622553507 (unseen ngrams)
+18: lg P('' | us ,) = -1.3031610328
+19: lg P(he | , '') = -1.5191909548
+20: lg P(says | '' he) = -1.977155422 (unseen ngrams)
+21: lg P(. | he says) = -1.26684521 (unseen ngrams)
+22: lg P(</s> | says .) = -0.1210694571
+1 sentence, 21 words, 2 OOVs
+lgprob=-40.2039669303 ppl=102.3760446883
+
+
+
+Sent #38: <s> `` To maintain that dialogue is absolutely crucial . </s>
+1: lg P(`` | <s>) = -1.1579972204
+2: lg P(to | <s> ``) = -2.08464608
+3: lg P(maintain | `` to) = -inf (unknown word)
+4: lg P(that | to maintain) = -2.7883145704 (unseen ngrams)
+5: lg P(dialogue | maintain that) = -4.8053480377 (unseen ngrams)
+6: lg P(is | that dialogue) = -2.9274009612 (unseen ngrams)
+7: lg P(absolutely | dialogue is) = -inf (unknown word)
+8: lg P(crucial | is absolutely) = -5.1063780334 (unseen ngrams)
+9: lg P(. | absolutely crucial) = -2.1125009913 (unseen ngrams)
+10: lg P(</s> | crucial .) = -0.1210694571 (unseen ngrams)
+1 sentence, 9 words, 2 OOVs
+lgprob=-21.1036553515 ppl=434.4671238457
+
+
+
+Sent #39: <s> It would have been too late to think about on Friday . </s>
+1: lg P(it | <s>) = -1.8365223316
+2: lg P(would | <s> it) = -1.706760003 (unseen ngrams)
+3: lg P(have | it would) = -0.8182205611 (unseen ngrams)
+4: lg P(been | would have) = -0.9989135417
+5: lg P(too | have been) = -4.2032879077 (unseen ngrams)
+6: lg P(late | been too) = -4.6292567787 (unseen ngrams)
+7: lg P(to | too late) = -2.3912105494 (unseen ngrams)
+8: lg P(think | late to) = -5.1063780334 (unseen ngrams)
+9: lg P(about | to think) = -3.2934645572 (unseen ngrams)
+10: lg P(on | think about) = -2.9760441416 (unseen ngrams)
+11: lg P(friday | about on) = -5.1063780334 (unseen ngrams)
+12: lg P(. | on friday) = -0.0927402938 (unseen ngrams)
+13: lg P(</s> | friday .) = -0.1210694571
+1 sentence, 12 words, 0 OOVs
+lgprob=-33.2802461897 ppl=363.0938873499
+
+
+
+Sent #40: <s> We had to think about it ahead of time . '' </s>
+1: lg P(we | <s>) = -3.0525161362
+2: lg P(had | <s> we) = -3.4729094488 (unseen ngrams)
+3: lg P(to | we had) = -1.222744197 (unseen ngrams)
+4: lg P(think | had to) = -5.1063780334 (unseen ngrams)
+5: lg P(about | to think) = -3.2934645572 (unseen ngrams)
+6: lg P(it | think about) = -3.0129562229 (unseen ngrams)
+7: lg P(ahead | about it) = -4.8053480377 (unseen ngrams)
+8: lg P(of | it ahead) = -0.3926606148 (unseen ngrams)
+9: lg P(time | ahead of) = -2.8379721859
+10: lg P(. | of time) = -1.3557433014 (unseen ngrams)
+11: lg P('' | time .) = -1.3212371498 (unseen ngrams)
+12: lg P(</s> | . '') = -0.5820374308
+1 sentence, 11 words, 0 OOVs
+lgprob=-30.4559673159 ppl=345.1415747759
+
+
+
+Sent #41: <s> Today 's Fidelity ad goes a step further , encouraging investors to stay in the market or even to plunge in with Fidelity . </s>
+1: lg P(today | <s>) = -3.0761669118
+2: lg P('s | <s> today) = -0.3169847709 (unseen ngrams)
+3: lg P(fidelity | today 's) = -inf (unknown word)
+4: lg P(ad | 's fidelity) = -3.784158633 (unseen ngrams)
+5: lg P(goes | fidelity ad) = -4.504318042 (unseen ngrams)
+6: lg P(a | ad goes) = -2.4030865278 (unseen ngrams)
+7: lg P(step | goes a) = -4.6292567787 (unseen ngrams)
+8: lg P(further | a step) = -4.4074078071 (unseen ngrams)
+9: lg P(, | step further) = -2.0419199169 (unseen ngrams)
+10: lg P(encouraging | further ,) = -inf (unknown word)
+11: lg P(investors | , encouraging) = -3.851105405 (unseen ngrams)
+12: lg P(to | encouraging investors) = -1.0317442881 (unseen ngrams)
+13: lg P(stay | investors to) = -inf (unknown word)
+14: lg P(in | to stay) = -2.4342800479 (unseen ngrams)
+15: lg P(the | stay in) = -0.7977053468 (unseen ngrams)
+16: lg P(market | in the) = -2.6839071169 (unseen ngrams)
+17: lg P(or | the market) = -3.3988077267 (unseen ngrams)
+18: lg P(even | market or) = -1.5013962765 (unseen ngrams)
+19: lg P(to | or even) = -1.3356615122 (unseen ngrams)
+20: lg P(plunge | even to) = -inf (unknown word)
+21: lg P(in | to plunge) = -2.4342800479 (unseen ngrams)
+22: lg P(with | plunge in) = -3.0851886075 (unseen ngrams)
+23: lg P(fidelity | in with) = -inf (unknown word)
+24: lg P(. | with fidelity) = -2.1125009913 (unseen ngrams)
+25: lg P(</s> | fidelity .) = -0.1210694571 (unseen ngrams)
+1 sentence, 24 words, 5 OOVs
+lgprob=-49.9509462121 ppl=314.4468949653
+
+
+
+Sent #42: <s> Underneath the headline `` Diversification , '' it counsels , `` Based on the events of the past week , all investors need to know their portfolios are balanced to help protect them against the market 's volatility . '' </s>
+1: lg P(underneath | <s>) = -inf (unknown word)
+2: lg P(the | <s> underneath) = -2.0203742003 (unseen ngrams)
+3: lg P(headline | underneath the) = -inf (unknown word)
+4: lg P(`` | the headline) = -2.8230766775 (unseen ngrams)
+5: lg P(diversification | headline ``) = -inf (unknown word)
+6: lg P(, | `` diversification) = -2.0419199169 (unseen ngrams)
+7: lg P('' | diversification ,) = -1.3031610328 (unseen ngrams)
+8: lg P(it | , '') = -3.0129562229 (unseen ngrams)
+9: lg P(counsels | '' it) = -inf (unknown word)
+10: lg P(, | it counsels) = -2.0419199169 (unseen ngrams)
+11: lg P(`` | counsels ,) = -1.9263657973 (unseen ngrams)
+12: lg P(based | , ``) = -4.0649852473 (unseen ngrams)
+13: lg P(on | `` based) = -0.5346680161 (unseen ngrams)
+14: lg P(the | based on) = -0.5405167129 (unseen ngrams)
+15: lg P(events | on the) = -4.8053480377 (unseen ngrams)
+16: lg P(of | the events) = -0.3926606148 (unseen ngrams)
+17: lg P(the | events of) = -0.7514830995
+18: lg P(past | of the) = -2.3996132268
+19: lg P(week | the past) = -3.902257912 (unseen ngrams)
+20: lg P(, | past week) = -0.4448089293 (unseen ngrams)
+21: lg P(all | week ,) = -2.8005671373 (unseen ngrams)
+22: lg P(investors | , all) = -3.851105405 (unseen ngrams)
+23: lg P(need | all investors) = -4.8053480377 (unseen ngrams)
+24: lg P(to | investors need) = -2.3912105494 (unseen ngrams)
+25: lg P(know | need to) = -2.5055686287 (unseen ngrams)
+26: lg P(their | to know) = -3.4531653963 (unseen ngrams)
+27: lg P(portfolios | know their) = -4.504318042 (unseen ngrams)
+28: lg P(are | their portfolios) = -0.6972905369 (unseen ngrams)
+29: lg P(balanced | portfolios are) = -inf (unknown word)
+30: lg P(to | are balanced) = -2.3912105494 (unseen ngrams)
+31: lg P(help | balanced to) = -2.0291738909 (unseen ngrams)
+32: lg P(protect | to help) = -4.6292567787 (unseen ngrams)
+33: lg P(them | help protect) = -3.8759289814 (unseen ngrams)
+34: lg P(against | protect them) = -4.0271966949 (unseen ngrams)
+35: lg P(the | them against) = -0.6787295351 (unseen ngrams)
+36: lg P(market | against the) = -2.6839071169 (unseen ngrams)
+37: lg P('s | the market) = -2.7067041837 (unseen ngrams)
+38: lg P(volatility | market 's) = -inf (unknown word)
+39: lg P(. | 's volatility) = -2.1125009913 (unseen ngrams)
+40: lg P('' | volatility .) = -1.3212371498 (unseen ngrams)
+41: lg P(</s> | . '') = -0.5820374308
+1 sentence, 40 words, 6 OOVs
+lgprob=-85.0525725972 ppl=269.1990375051
+
+
+
+Sent #43: <s> It goes on to plug a few diversified Fidelity funds by name . </s>
+1: lg P(it | <s>) = -1.8365223316
+2: lg P(goes | <s> it) = -4.504318042 (unseen ngrams)
+3: lg P(on | it goes) = -0.6966814281 (unseen ngrams)
+4: lg P(to | goes on) = -2.3912105494 (unseen ngrams)
+5: lg P(plug | on to) = -inf (unknown word)
+6: lg P(a | to plug) = -2.4030865278 (unseen ngrams)
+7: lg P(few | plug a) = -2.0982374815 (unseen ngrams)
+8: lg P(diversified | a few) = -inf (unknown word)
+9: lg P(fidelity | few diversified) = -inf (unknown word)
+10: lg P(funds | diversified fidelity) = -3.4729094488 (unseen ngrams)
+11: lg P(by | fidelity funds) = -3.006007365 (unseen ngrams)
+12: lg P(name | funds by) = -4.504318042 (unseen ngrams)
+13: lg P(. | by name) = -2.1125009913 (unseen ngrams)
+14: lg P(</s> | name .) = -0.1210694571 (unseen ngrams)
+1 sentence, 13 words, 3 OOVs
+lgprob=-27.1468616646 ppl=293.6949743081
+
+
+
+Sent #44: <s> PaineWebber also was able to gear up quickly thanks to the 1987 crash . </s>
+1: lg P(painewebber | <s>) = -inf (unknown word)
+2: lg P(also | <s> painewebber) = -3.4831286109 (unseen ngrams)
+3: lg P(was | painewebber also) = -1.6980652415 (unseen ngrams)
+4: lg P(able | also was) = -4.6292567787 (unseen ngrams)
+5: lg P(to | was able) = -0.0947102119 (unseen ngrams)
+6: lg P(gear | able to) = -inf (unknown word)
+7: lg P(up | to gear) = -3.5623098622 (unseen ngrams)
+8: lg P(quickly | gear up) = -4.6292567787 (unseen ngrams)
+9: lg P(thanks | up quickly) = -inf (unknown word)
+10: lg P(to | quickly thanks) = -2.3912105494 (unseen ngrams)
+11: lg P(the | thanks to) = -1.111458631 (unseen ngrams)
+12: lg P(1987 | to the) = -2.856727168 (unseen ngrams)
+13: lg P(crash | the 1987) = -1.0968250355
+14: lg P(. | 1987 crash) = -0.0927402938
+15: lg P(</s> | crash .) = -0.1210694571
+1 sentence, 14 words, 3 OOVs
+lgprob=-25.7667586187 ppl=140.3556451835
+
+
+
+Sent #45: <s> In the aftermath of the 1987 debacle , the brokerage firm began taping commercials in-house , ultimately getting its timing down fast enough to tape a commercial after the market closed and rush it on the air that night . </s>
+1: lg P(in | <s>) = -1.3677561955
+2: lg P(the | <s> in) = -0.7977053468
+3: lg P(aftermath | in the) = -inf (unknown word)
+4: lg P(of | the aftermath) = -2.3104978882 (unseen ngrams)
+5: lg P(the | aftermath of) = -0.7514830995 (unseen ngrams)
+6: lg P(1987 | of the) = -2.856727168 (unseen ngrams)
+7: lg P(debacle | the 1987) = -inf (unknown word)
+8: lg P(, | 1987 debacle) = -2.0419199169 (unseen ngrams)
+9: lg P(the | debacle ,) = -1.0827826322 (unseen ngrams)
+10: lg P(brokerage | , the) = -inf (unknown word)
+11: lg P(firm | the brokerage) = -4.4074078071 (unseen ngrams)
+12: lg P(began | brokerage firm) = -4.2032879077 (unseen ngrams)
+13: lg P(taping | firm began) = -inf (unknown word)
+14: lg P(commercials | began taping) = -5.1063780334 (unseen ngrams)
+15: lg P(in-house | taping commercials) = -inf (unknown word)
+16: lg P(, | commercials in-house) = -2.0419199169 (unseen ngrams)
+17: lg P(ultimately | in-house ,) = -4.8053480377 (unseen ngrams)
+18: lg P(getting | , ultimately) = -4.6292567787 (unseen ngrams)
+19: lg P(its | ultimately getting) = -3.1718794531 (unseen ngrams)
+20: lg P(timing | getting its) = -inf (unknown word)
+21: lg P(down | its timing) = -3.8759289814 (unseen ngrams)
+22: lg P(fast | timing down) = -5.1063780334 (unseen ngrams)
+23: lg P(enough | down fast) = -5.1063780334 (unseen ngrams)
+24: lg P(to | fast enough) = -0.0947102119 (unseen ngrams)
+25: lg P(tape | enough to) = -inf (unknown word)
+26: lg P(a | to tape) = -2.4030865278 (unseen ngrams)
+27: lg P(commercial | tape a) = -4.2612798348 (unseen ngrams)
+28: lg P(after | a commercial) = -3.6750141459 (unseen ngrams)
+29: lg P(the | commercial after) = -0.7274170596 (unseen ngrams)
+30: lg P(market | after the) = -2.6839071169 (unseen ngrams)
+31: lg P(closed | the market) = -4.504318042 (unseen ngrams)
+32: lg P(and | market closed) = -2.4978518741 (unseen ngrams)
+33: lg P(rush | closed and) = -inf (unknown word)
+34: lg P(it | and rush) = -3.0129562229 (unseen ngrams)
+35: lg P(on | rush it) = -2.9760441416 (unseen ngrams)
+36: lg P(the | it on) = -0.5405167129 (unseen ngrams)
+37: lg P(air | on the) = -inf (unknown word)
+38: lg P(that | the air) = -2.7883145704 (unseen ngrams)
+39: lg P(night | air that) = -4.6292567787 (unseen ngrams)
+40: lg P(. | that night) = -0.561640324 (unseen ngrams)
+41: lg P(</s> | night .) = -0.1210694571
+1 sentence, 40 words, 9 OOVs
+lgprob=-89.1404182505 ppl=610.433093882
+
+
+
+Sent #46: <s> It also negotiated an arrangement with Cable News Network under which CNN would agree to air its last-minute creations . </s>
+1: lg P(it | <s>) = -1.8365223316
+2: lg P(also | <s> it) = -2.1687467895
+3: lg P(negotiated | it also) = -inf (unknown word)
+4: lg P(an | also negotiated) = -3.1063779113 (unseen ngrams)
+5: lg P(arrangement | negotiated an) = -5.1063780334 (unseen ngrams)
+6: lg P(with | an arrangement) = -3.0851886075 (unseen ngrams)
+7: lg P(cable | arrangement with) = -inf (unknown word)
+8: lg P(news | with cable) = -4.0271966949 (unseen ngrams)
+9: lg P(network | cable news) = -inf (unknown word)
+10: lg P(under | news network) = -3.6750141459 (unseen ngrams)
+11: lg P(which | network under) = -0.9250393841 (unseen ngrams)
+12: lg P(cnn | under which) = -inf (unknown word)
+13: lg P(would | which cnn) = -3.5381761893 (unseen ngrams)
+14: lg P(agree | cnn would) = -5.1063780334 (unseen ngrams)
+15: lg P(to | would agree) = -2.3912105494 (unseen ngrams)
+16: lg P(air | agree to) = -inf (unknown word)
+17: lg P(its | to air) = -3.1718794531 (unseen ngrams)
+18: lg P(last-minute | air its) = -inf (unknown word)
+19: lg P(creations | its last-minute) = -inf (unknown word)
+20: lg P(. | last-minute creations) = -2.1125009913 (unseen ngrams)
+21: lg P(</s> | creations .) = -0.1210694571 (unseen ngrams)
+1 sentence, 20 words, 7 OOVs
+lgprob=-40.3716785718 ppl=765.0526548497
+
+
+
+Sent #47: <s> The new PaineWebber commercial , created with ad agency Saatchi & Saatchi Co. , features Mary Farrell , one of the firm 's most visible investment strategists , sounding particularly bullish . </s>
+1: lg P(the | <s>) = -0.8206156946
+2: lg P(new | <s> the) = -1.9005877785
+3: lg P(painewebber | the new) = -inf (unknown word)
+4: lg P(commercial | new painewebber) = -4.2612798348 (unseen ngrams)
+5: lg P(, | painewebber commercial) = -0.3314065508 (unseen ngrams)
+6: lg P(created | commercial ,) = -5.1063780334 (unseen ngrams)
+7: lg P(with | , created) = -3.0851886075 (unseen ngrams)
+8: lg P(ad | created with) = -3.784158633 (unseen ngrams)
+9: lg P(agency | with ad) = -1.4187725142 (unseen ngrams)
+10: lg P(saatchi | ad agency) = -inf (unknown word)
+11: lg P(& | agency saatchi) = -3.8759289814 (unseen ngrams)
+12: lg P(saatchi | saatchi &) = -inf (unknown word)
+13: lg P(co. | & saatchi) = -3.902257912 (unseen ngrams)
+14: lg P(, | saatchi co.) = -0.4448089293 (unseen ngrams)
+15: lg P(features | co. ,) = -5.1063780334 (unseen ngrams)
+16: lg P(mary | , features) = -4.328226598 (unseen ngrams)
+17: lg P(farrell | features mary) = -inf (unknown word)
+18: lg P(, | mary farrell) = -2.0419199169 (unseen ngrams)
+19: lg P(one | farrell ,) = -3.5500754093 (unseen ngrams)
+20: lg P(of | , one) = -0.5319761986 (unseen ngrams)
+21: lg P(the | one of) = -0.7514830995
+22: lg P(firm | of the) = -4.4074078071 (unseen ngrams)
+23: lg P('s | the firm) = -2.7067041837 (unseen ngrams)
+24: lg P(most | firm 's) = -3.851105405 (unseen ngrams)
+25: lg P(visible | 's most) = -5.1063780334 (unseen ngrams)
+26: lg P(investment | most visible) = -3.9602498392 (unseen ngrams)
+27: lg P(strategists | visible investment) = -inf (unknown word)
+28: lg P(, | investment strategists) = -2.0419199169 (unseen ngrams)
+29: lg P(sounding | strategists ,) = -inf (unknown word)
+30: lg P(particularly | , sounding) = -4.8053480377 (unseen ngrams)
+31: lg P(bullish | sounding particularly) = -inf (unknown word)
+32: lg P(. | particularly bullish) = -2.1125009913 (unseen ngrams)
+33: lg P(</s> | bullish .) = -0.1210694571 (unseen ngrams)
+1 sentence, 32 words, 7 OOVs
+lgprob=-74.3541263966 ppl=724.0592267746
+
+
+
+Sent #48: <s> Taped just as the market closed yesterday , it offers Ms. Farrell advising , `` We view the market here as going through a relatively normal cycle ... . </s>
+1: lg P(taped | <s>) = -inf (unknown word)
+2: lg P(just | <s> taped) = -4.1521354006 (unseen ngrams)
+3: lg P(as | taped just) = -0.7483097438 (unseen ngrams)
+4: lg P(the | just as) = -0.8407982521
+5: lg P(market | as the) = -2.6839071169 (unseen ngrams)
+6: lg P(closed | the market) = -4.504318042 (unseen ngrams)
+7: lg P(yesterday | market closed) = -0.698800066 (unseen ngrams)
+8: lg P(, | closed yesterday) = -0.6036613531 (unseen ngrams)
+9: lg P(it | yesterday ,) = -2.144026535 (unseen ngrams)
+10: lg P(offers | , it) = -5.1063780334 (unseen ngrams)
+11: lg P(ms. | it offers) = -5.1063780334 (unseen ngrams)
+12: lg P(farrell | offers ms.) = -inf (unknown word)
+13: lg P(advising | ms. farrell) = -inf (unknown word)
+14: lg P(, | farrell advising) = -2.0419199169 (unseen ngrams)
+15: lg P(`` | advising ,) = -1.9263657973 (unseen ngrams)
+16: lg P(we | , ``) = -1.7759134014
+17: lg P(view | `` we) = -5.1063780334 (unseen ngrams)
+18: lg P(the | we view) = -2.0203742003 (unseen ngrams)
+19: lg P(market | view the) = -2.6839071169 (unseen ngrams)
+20: lg P(here | the market) = -4.4074078071 (unseen ngrams)
+21: lg P(as | market here) = -3.1286542996 (unseen ngrams)
+22: lg P(going | here as) = -4.4074078071 (unseen ngrams)
+23: lg P(through | as going) = -4.2612798348 (unseen ngrams)
+24: lg P(a | going through) = -0.9272407473 (unseen ngrams)
+25: lg P(relatively | through a) = -2.7938109697 (unseen ngrams)
+26: lg P(normal | a relatively) = -inf (unknown word)
+27: lg P(cycle | relatively normal) = -inf (unknown word)
+28: lg P(... | normal cycle) = -4.2612798348 (unseen ngrams)
+29: lg P(. | cycle ...) = -0.6265558963 (unseen ngrams)
+30: lg P(</s> | ... .) = -0.1210694571
+1 sentence, 29 words, 5 OOVs
+lgprob=-67.0782776963 ppl=482.0933133565
+
+
+
+Sent #49: <s> We continue to feel that the stock market is still the place to be for long-term appreciation . '' </s>
+1: lg P(we | <s>) = -3.0525161362
+2: lg P(continue | <s> we) = -4.4074078071 (unseen ngrams)
+3: lg P(to | we continue) = -0.4893712711 (unseen ngrams)
+4: lg P(feel | continue to) = -5.1063780334 (unseen ngrams)
+5: lg P(that | to feel) = -2.7883145704 (unseen ngrams)
+6: lg P(the | feel that) = -0.9169270051 (unseen ngrams)
+7: lg P(stock | that the) = -2.6757748589 (unseen ngrams)
+8: lg P(market | the stock) = -1.0506556399
+9: lg P(is | stock market) = -2.9274009612 (unseen ngrams)
+10: lg P(still | market is) = -2.2688856257 (unseen ngrams)
+11: lg P(the | is still) = -2.0203742003 (unseen ngrams)
+12: lg P(place | still the) = -4.4074078071 (unseen ngrams)
+13: lg P(to | the place) = -2.3912105494 (unseen ngrams)
+14: lg P(be | place to) = -1.4619051636 (unseen ngrams)
+15: lg P(for | to be) = -2.7316295609 (unseen ngrams)
+16: lg P(long-term | be for) = -5.1063780334 (unseen ngrams)
+17: lg P(appreciation | for long-term) = -inf (unknown word)
+18: lg P(. | long-term appreciation) = -2.1125009913 (unseen ngrams)
+19: lg P('' | appreciation .) = -1.3212371498 (unseen ngrams)
+20: lg P(</s> | . '') = -0.5820374308
+1 sentence, 19 words, 1 OOVs
+lgprob=-47.8183127956 ppl=328.6648843038
+
+
+
+Sent #50: <s> The spot was scheduled to appear three times on CNN last night . </s>
+1: lg P(the | <s>) = -0.8206156946
+2: lg P(spot | <s> the) = -5.1063780334 (unseen ngrams)
+3: lg P(was | the spot) = -3.0025741814 (unseen ngrams)
+4: lg P(scheduled | spot was) = -4.6292567787 (unseen ngrams)
+5: lg P(to | was scheduled) = -0.2697057348 (unseen ngrams)
+6: lg P(appear | scheduled to) = -5.1063780334 (unseen ngrams)
+7: lg P(three | to appear) = -3.851105405 (unseen ngrams)
+8: lg P(times | appear three) = -1.3517238366 (unseen ngrams)
+9: lg P(on | three times) = -2.9760441416 (unseen ngrams)
+10: lg P(cnn | times on) = -inf (unknown word)
+11: lg P(last | on cnn) = -3.52659432 (unseen ngrams)
+12: lg P(night | cnn last) = -4.6292567787 (unseen ngrams)
+13: lg P(. | last night) = -0.561640324 (unseen ngrams)
+14: lg P(</s> | night .) = -0.1210694571
+1 sentence, 13 words, 1 OOVs
+lgprob=-35.9523427193 ppl=582.8607684737
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+sent_num=50 word_num=1175 oov_num=170
+lgprob=-2856.0089873685997 ave_lgprob=-2.7071175236 ppl=509.4687187616
